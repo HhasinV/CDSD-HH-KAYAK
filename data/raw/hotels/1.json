@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Hôtel Vert",
+    "url": "https://www.booking.com/hotel/fr/vert.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 48.61470048629041,
+    "lon": -1.5096169710159302,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Le Relais Saint Michel",
+    "url": "https://www.booking.com/hotel/fr/le-relais-saint-michel.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 48.6175872716489,
+    "lon": -1.51039615273476,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Le Saint Aubert",
+    "url": "https://www.booking.com/hotel/fr/hotel-saint-aubert.fr.html",
+    "note": 7.4,
+    "prix": null,
+    "lat": 48.612937834706464,
+    "lon": -1.5101051330566406,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Mercure Mont Saint Michel",
+    "url": "https://www.booking.com/hotel/fr/mont-saint-michel.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.61424652959294,
+    "lon": -1.510545015335083,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "La Confiance",
+    "url": "https://www.booking.com/hotel/fr/les-terrasses-poulard.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 48.63529991744177,
+    "lon": -1.5103968232870102,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Hotel De La Digue",
+    "url": "https://www.booking.com/hotel/fr/de-la-digue.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 48.61688154944122,
+    "lon": -1.510917842388153,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Hotel Gabriel",
+    "url": "https://www.booking.com/hotel/fr/hotel-gabriel.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 48.61538141368341,
+    "lon": -1.510709971189499,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "La Mère Poulard",
+    "url": "https://www.booking.com/hotel/fr/la-mere-poulard.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 48.63505774290867,
+    "lon": -1.5109439939260483,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "La Vieille Auberge",
+    "url": "https://www.booking.com/hotel/fr/la-vieille-auberge-le-mont-saint-michel.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 48.636063,
+    "lon": -1.511457,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Le Relais Du Roy",
+    "url": "https://www.booking.com/hotel/fr/le-relais-du-roy.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 48.61626270451236,
+    "lon": -1.510905772447586,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Le Duguesclin",
+    "url": "https://www.booking.com/hotel/fr/le-duguesclin-le-mont-saint-michel.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 48.636063,
+    "lon": -1.511457,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Le Mouton Blanc",
+    "url": "https://www.booking.com/hotel/fr/le-mouton-blanc-le-mont-saint-michel.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 48.63573533870306,
+    "lon": -1.5098536759614944,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Hôtel la Croix Blanche",
+    "url": "https://www.booking.com/hotel/fr/ha-el-la-croix-blanche.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 48.635734064271254,
+    "lon": -1.5098610520362854,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Auberge Saint Pierre",
+    "url": "https://www.booking.com/hotel/fr/auberge-saint-pierre.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 48.63568797869143,
+    "lon": -1.5098825097084045,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Chez Adèle, au pied de l'Abbaye",
+    "url": "https://www.booking.com/hotel/fr/chez-adele-le-mont-saint-michel.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 48.636165894011,
+    "lon": -1.5104757792319998,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Appart Standing - La Coque d'Or - Mont-St-Michel",
+    "url": "https://www.booking.com/hotel/fr/la-coque-d-or.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 48.6354874,
+    "lon": -1.5101555,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Apparthôtel Mont Saint Michel - Résidence Fleurdumont",
+    "url": "https://www.booking.com/hotel/fr/residence-fleurdumont.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 48.596482169806976,
+    "lon": -1.5031469166023044,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Chambres d'Hôtes Farcy \"La P'tite Transhumance\"",
+    "url": "https://www.booking.com/hotel/fr/chambres-d-hotes-farcy.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.61435411468349,
+    "lon": -1.4870535165329102,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Auberge de la Baie",
+    "url": "https://www.booking.com/hotel/fr/auberge-de-la-baie.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.61599317655586,
+    "lon": -1.4882531762123108,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Camping Les Pommiers du Mont Saint Michel",
+    "url": "https://www.booking.com/hotel/fr/camping-aux-pommiers-tohapi.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 48.596370566858845,
+    "lon": -1.511720054244996,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Hotel Rose",
+    "url": "https://www.booking.com/hotel/fr/gue-de-beauvoir.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.59706233179113,
+    "lon": -1.513039469718933,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Résidence Beauvoir le Mont-Saint-Michel",
+    "url": "https://www.booking.com/hotel/fr/residence-beauvoir-le-mont-saint-michel.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.597878453626,
+    "lon": -1.508418656869,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Le Petit Moulin Rouge, B&B, SDB en-suite, parking privé gratuit",
+    "url": "https://www.booking.com/hotel/fr/chambre-cosy-king-size-ou-jumeaux-sdb-en-suite-tout-pres-du-mont-saint-beauvoir.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 48.5963383,
+    "lon": -1.5055117,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Etoile des Grèves",
+    "url": "https://www.booking.com/hotel/fr/etoile-des-greves.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.615509,
+    "lon": -1.491524,
+    "city_id": 1
+  },
+  {
+    "ville": "Mont Saint Michel",
+    "nom": "Le Marquis De La Guintre",
+    "url": "https://www.booking.com/hotel/fr/le-marquis-de-la-guintre.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.6248647057706,
+    "lon": -1.44534185528755,
+    "city_id": 1
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Paris",
+    "nom": "Hotel Trianon Rive Gauche",
+    "url": "https://www.booking.com/hotel/fr/trianon-rive-gauche.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 48.848853262394854,
+    "lon": 2.3409099876880646,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Charmant studio au cœur du 12ᵉ arrondissement",
+    "url": "https://www.booking.com/hotel/fr/charmant-studio-au-coeur-du-12-arrondissement.fr.html",
+    "note": 10.0,
+    "prix": null,
+    "lat": 48.849326,
+    "lon": 2.380268,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Sunny Bastille-Roquette Paris",
+    "url": "https://www.booking.com/hotel/fr/sunny-bastille-roquette-paris.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 48.8583812,
+    "lon": 2.3825183,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "PARIS RIVOLI NOTRE DAME Chambre d'Hôtes Studio Private",
+    "url": "https://www.booking.com/hotel/fr/paris-rivoli-notre-dame.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.85588,
+    "lon": 2.356515,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Ibis Styles Paris Batignolles",
+    "url": "https://www.booking.com/hotel/fr/mirific.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.88985257129384,
+    "lon": 2.321208715384273,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Hilton Paris Opera",
+    "url": "https://www.booking.com/hotel/fr/hilton-paris-opera.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 48.875565910073085,
+    "lon": 2.3255234956741333,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Marais-Vosges, Rue Franc Bourgeois",
+    "url": "https://www.booking.com/hotel/fr/marais-vosges-rue-franc-bourgeois.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 48.8566418,
+    "lon": 2.3633112,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "JOIVY Premium flats in the heart of the 9th arr, near Moulin Rouge",
+    "url": "https://www.booking.com/hotel/fr/altido-pleasant-1-bed-flat-with-shared-courtyard.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 48.881602932819,
+    "lon": 2.335512841734,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Le Charme Alsacien",
+    "url": "https://www.booking.com/hotel/fr/le-charme-alsacien.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 48.8449583185492,
+    "lon": 2.31019600395421,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Belleville 1 Bedroom Apartment Near Père Lachaise",
+    "url": "https://www.booking.com/hotel/fr/belleville-1-bedroom-apartment-near-pere-lachaise.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 48.8689487,
+    "lon": 2.4011123,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Mercure Tour Eiffel Grenelle",
+    "url": "https://www.booking.com/hotel/fr/toureiffelparis.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 48.85051235502713,
+    "lon": 2.2926490008831024,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Hotel Cluny Square",
+    "url": "https://www.booking.com/hotel/fr/clunysquareparis.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.85148395768776,
+    "lon": 2.343434616923332,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Hôtel Botaniste",
+    "url": "https://www.booking.com/hotel/fr/botaniste.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.844839,
+    "lon": 2.264669,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Top Floor Parisian Gem Views & Balcony",
+    "url": "https://www.booking.com/hotel/fr/top-floor-parisian-gem-views-balcony.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 48.88211159999999,
+    "lon": 2.296698,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Hotel Abbatial Saint Germain",
+    "url": "https://www.booking.com/hotel/fr/abbatial-st-germain.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 48.84969517052631,
+    "lon": 2.350545823574066,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "ibis Styles Paris Cadet Lafayette",
+    "url": "https://www.booking.com/hotel/fr/all-season-paris-9-lafayette.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.878248562203275,
+    "lon": 2.3475437611341476,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Hilton Garden Inn Paris La Villette",
+    "url": "https://www.booking.com/hotel/fr/hilton-garden-inn-paris-la-villette.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.8963,
+    "lon": 2.383245,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Moxy Paris Bastille",
+    "url": "https://www.booking.com/hotel/fr/moxy-paris-bastille.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 48.85752847347896,
+    "lon": 2.369939535856247,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Studio sur les Quais de Seine",
+    "url": "https://www.booking.com/hotel/fr/studio-sur-les-quais-de-seine-paris1.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 48.8489045,
+    "lon": 2.2759062,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "HotelF1 Paris Saint Ouen Marché Aux Puces",
+    "url": "https://www.booking.com/hotel/fr/hotelf1-paris-porte-de-montmartre.fr.html",
+    "note": 6.0,
+    "prix": null,
+    "lat": 48.90110629205327,
+    "lon": 2.332844057325019,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Courtyard by Marriott Paris Gare de Lyon",
+    "url": "https://www.booking.com/hotel/fr/courtyard-by-marriott-paris-gare-de-lyon.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 48.845083,
+    "lon": 2.371372,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Pullman Paris Tour Eiffel",
+    "url": "https://www.booking.com/hotel/fr/tour-eiffel.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 48.855604014138976,
+    "lon": 2.2925618290901184,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Novotel Paris 14 Porte d'Orléans",
+    "url": "https://www.booking.com/hotel/fr/paris-porte-d-orleans.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 48.81959655014797,
+    "lon": 2.3261377215385437,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Campanile Prime Paris 19 - La Villette",
+    "url": "https://www.booking.com/hotel/fr/campanile-prime-paris19-lavillette.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 48.893424909270266,
+    "lon": 2.3800206184387207,
+    "city_id": 6
+  },
+  {
+    "ville": "Paris",
+    "nom": "Stylish flat - Center of Paris Eurostar walkable",
+    "url": "https://www.booking.com/hotel/fr/stylish-flat-center-of-paris-eurostar-walkable.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 48.8784896,
+    "lon": 2.3576536,
+    "city_id": 6
+  }
+]

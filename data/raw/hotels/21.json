@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Marseille",
+    "nom": "Pointe Rouge Beach Apartment",
+    "url": "https://www.booking.com/hotel/fr/pointe-rouge-beach-apartment.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.2369751,
+    "lon": 5.3640782,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "MEININGER Marseille Centre la Joliette",
+    "url": "https://www.booking.com/hotel/fr/meininger-marseille-centre-la-joliette.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.30574814984538,
+    "lon": 5.371058398811321,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Chambre climatisée à 10 min du Vieux-Port & Panier",
+    "url": "https://www.booking.com/hotel/fr/bright-room-with-ac-close-to-old-port-panier.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.302039,
+    "lon": 5.372311,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Bed & Breakfast - Au Petit Rouge-Gorge",
+    "url": "https://www.booking.com/hotel/fr/auberge-du-rouge-gorge.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 43.30083860803334,
+    "lon": 5.371066471691965,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "HOTEL SYLVABELLE",
+    "url": "https://www.booking.com/hotel/fr/sylvabelle-marseille12.fr.html",
+    "note": 5.1,
+    "prix": null,
+    "lat": 43.288849,
+    "lon": 5.377536,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "ibis budget Marseille Vieux Port",
+    "url": "https://www.booking.com/hotel/fr/etap-marseille-vieux-port.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 43.29220855923841,
+    "lon": 5.373554974794388,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "ibis Styles Marseille Palais des Congrès Vélodrome",
+    "url": "https://www.booking.com/hotel/fr/ibis-styles-marseille-palais-des-congres-velodrome.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.28066065110931,
+    "lon": 5.399563014507294,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Hotel Gambetta",
+    "url": "https://www.booking.com/hotel/fr/gambetta-marseille1.fr.html",
+    "note": 3.4,
+    "prix": null,
+    "lat": 43.2992907,
+    "lon": 5.3837702,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Novotel Marseille Centre Prado Vélodrome",
+    "url": "https://www.booking.com/hotel/fr/novotel-marseille-centre-prado.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.28068115402996,
+    "lon": 5.387088060379028,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Hôtel Horizon",
+    "url": "https://www.booking.com/hotel/fr/horizon-marseille.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 43.2995066972292,
+    "lon": 5.38646607638636,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Bienvenue dans votre pied-à-terre marseillais",
+    "url": "https://www.booking.com/hotel/fr/bienvenue-dans-votre-pied-a-terre-marseillais.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.2928957,
+    "lon": 5.3862601,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "bambou house x Jardin calme centre-ville",
+    "url": "https://www.booking.com/hotel/fr/2p-jardin-calme-centre-ville.fr.html",
+    "note": 6.2,
+    "prix": null,
+    "lat": 43.3132197,
+    "lon": 5.3818499,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Ibis Marseille Centre Prefecture",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-marseille-centre-xml.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 43.291553228272214,
+    "lon": 5.381971076130867,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Studio agreable au coeur du quartier historique",
+    "url": "https://www.booking.com/hotel/fr/studio-agreable-au-coeur-du-quartier-historique-marseille1.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 43.299373766144,
+    "lon": 5.367903677085,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "ibis Marseille Centre Euromed",
+    "url": "https://www.booking.com/hotel/fr/ibis-euromediterranee.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.307901002933846,
+    "lon": 5.36782017175824,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Campanile NATURE - Marseille Saint-Antoine",
+    "url": "https://www.booking.com/hotel/fr/campanile-marseille-saint-antoine.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.37978112199208,
+    "lon": 5.355641841888428,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Premiere Classe Marseille La Valentine",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-marseille-la-valentine.fr.html",
+    "note": 5.7,
+    "prix": null,
+    "lat": 43.29832242990854,
+    "lon": 5.476697310805321,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "T2 Entre plage et centre ville-Terrasse/Parking",
+    "url": "https://www.booking.com/hotel/fr/t2-entre-plage-et-centre-ville-terrasse-parking.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.3143674,
+    "lon": 5.3691335,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "The People - Marseille",
+    "url": "https://www.booking.com/hotel/fr/the-people-hostel-marseille.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.301105,
+    "lon": 5.371282,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "LaFrenchCasa Belsunce",
+    "url": "https://www.booking.com/hotel/fr/t2-deco-mediterranee-lafrenchcasa-belsunce.fr.html",
+    "note": 7.4,
+    "prix": null,
+    "lat": 43.298896407937,
+    "lon": 5.378660553967,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Golden Tulip Marseille Euromed",
+    "url": "https://www.booking.com/hotel/fr/golden-tulip.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 43.309721767182005,
+    "lon": 5.367034441568762,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Studio Vieux-Port Marseille Quai Rive Neuve",
+    "url": "https://www.booking.com/hotel/fr/studio-moderne-et-chaleureux-vieux-port-marseille.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.2918258,
+    "lon": 5.3689631,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "ibis Marseille Centre Gare Saint Charles",
+    "url": "https://www.booking.com/hotel/fr/ibis-marseille-gare-saint-charles.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 43.302943517277306,
+    "lon": 5.382228344569739,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "La Maison de Valentino",
+    "url": "https://www.booking.com/hotel/fr/la-maison-de-valentino.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.2976721962112,
+    "lon": 5.36816442576026,
+    "city_id": 21
+  },
+  {
+    "ville": "Marseille",
+    "nom": "Vertigo Hostel",
+    "url": "https://www.booking.com/hotel/fr/vertigo-vieux-port-marseille.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 43.291397377840134,
+    "lon": 5.3719362616539,
+    "city_id": 21
+  }
+]

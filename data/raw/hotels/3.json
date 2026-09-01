@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Bayeux",
+    "nom": "B&B HOTEL Bayeux",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-bayeux.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 49.269428715614055,
+    "lon": -0.7066869735717773,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Ibis Budget Bayeux",
+    "url": "https://www.booking.com/hotel/fr/etap-bayeux.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 49.25375889425724,
+    "lon": -0.6468093395233154,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "LA MAITRISE",
+    "url": "https://www.booking.com/hotel/fr/la-maitrise.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 49.2758441,
+    "lon": -0.7054867,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "B&B Nathalie",
+    "url": "https://www.booking.com/hotel/fr/imagine-bayeux.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 49.276465,
+    "lon": -0.706367,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Gites les Pourquoi Pas - Résidence de Tourisme DSV Bayeux",
+    "url": "https://www.booking.com/hotel/fr/gites-les-pourquoi-pas-residence-de-tourisme-dsv-bayeux.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 49.2815226,
+    "lon": -0.7081344,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Hôtel d'Argouges",
+    "url": "https://www.booking.com/hotel/fr/d-argouges.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 49.27899410241933,
+    "lon": -0.7084169983863831,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Le petit Valhalla",
+    "url": "https://www.booking.com/hotel/fr/le-petit-valhalla.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 49.278837190749,
+    "lon": -0.70080550416,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Manoir Sainte Victoire",
+    "url": "https://www.booking.com/hotel/fr/manoir-sainte-victoire.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 49.2764917090797,
+    "lon": -0.705759599804878,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Au cœur du centre historique",
+    "url": "https://www.booking.com/hotel/fr/au-coeur-du-centre-historique-bayeux.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 49.274074,
+    "lon": -0.706744,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Les Hirondelles",
+    "url": "https://www.booking.com/hotel/fr/les-hirondelles-bayeux.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 49.2758658886487,
+    "lon": -0.680978257394409,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Le Petit Matin",
+    "url": "https://www.booking.com/hotel/fr/le-petit-matin.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 49.27606133430732,
+    "lon": -0.7090553641319275,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Tiny house au cœur de Bayeux",
+    "url": "https://www.booking.com/hotel/fr/tiny-house-au-coeur-de-bayeux.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 49.2755584,
+    "lon": -0.6992038,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Mon Saint-Malo - APPART'HOTEL - Coeur de Bayeux",
+    "url": "https://www.booking.com/hotel/fr/mon-saint-malo-appart-coeur-de-bayeux.fr.html",
+    "note": 6.1,
+    "prix": null,
+    "lat": 49.2779554,
+    "lon": -0.7050919,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Pause Bayeux",
+    "url": "https://www.booking.com/hotel/fr/pause-bayeux.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 49.2708246,
+    "lon": -0.6968204,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Hotel Reine Mathilde",
+    "url": "https://www.booking.com/hotel/fr/reine-mathilde-bayeux.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 49.276031585766006,
+    "lon": -0.7017248868942261,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "La Citadine",
+    "url": "https://www.booking.com/hotel/fr/la-citadine.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 49.280064,
+    "lon": -0.7090769999999793,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "L'appart de Léo et Soso",
+    "url": "https://www.booking.com/hotel/fr/appart-de-leo-et-soso.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 49.276624102357,
+    "lon": -0.699035782054,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Maison De ville Bayeux",
+    "url": "https://www.booking.com/hotel/fr/maison-de-ville-bayeux.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 49.27403109996394,
+    "lon": -0.7040727583721491,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Le Declic",
+    "url": "https://www.booking.com/hotel/fr/le-mogador-bayeux.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 49.27933593079586,
+    "lon": -0.7070561004303499,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "La maison des Declos avec parking privé",
+    "url": "https://www.booking.com/hotel/fr/la-maison-des-declos.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 49.270781434067,
+    "lon": -0.710009882189,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "La Plus Petite Maison De France",
+    "url": "https://www.booking.com/hotel/fr/tour-de-l-39-islet.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 49.27661977234524,
+    "lon": -0.7010999321937561,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Novotel Bayeux",
+    "url": "https://www.booking.com/hotel/fr/novotel.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 49.281769222390345,
+    "lon": -0.7184886932373047,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Domaine de Bayeux",
+    "url": "https://www.booking.com/hotel/fr/domaine-de-bayeux.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 49.27232559999999,
+    "lon": -0.6985101000000213,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Dodo et tartines B&B",
+    "url": "https://www.booking.com/hotel/fr/chambre-d-39-hotes-dodo-et-tartines.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 49.2761863,
+    "lon": -0.6977695000000494,
+    "city_id": 3
+  },
+  {
+    "ville": "Bayeux",
+    "nom": "Château de Bellefontaine - Teritoria",
+    "url": "https://www.booking.com/hotel/fr/chateau-de-bellefontaine.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 49.269740241146884,
+    "lon": -0.6888395547866821,
+    "city_id": 3
+  }
+]

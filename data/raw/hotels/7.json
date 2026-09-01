@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Amiens",
+    "nom": "Ibis Budget Amiens Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-amiens-centre-gare.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 49.891591,
+    "lon": 2.313573,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "ibis Styles Amiens Sud",
+    "url": "https://www.booking.com/hotel/fr/the-originals-boutique-amiens-sud-chu-amiens.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 49.879612824182246,
+    "lon": 2.266651015808119,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Ginkgo Maison d'hôtes",
+    "url": "https://www.booking.com/hotel/fr/ginkgo-maison-d-39-hotes.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 49.887125,
+    "lon": 2.295143,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Holiday Inn Express Amiens by IHG",
+    "url": "https://www.booking.com/hotel/fr/express-by-holiday-inn.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 49.89167619790575,
+    "lon": 2.30775386095047,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Première Classe Amiens",
+    "url": "https://www.booking.com/hotel/fr/premia-re-classe-amiens.fr.html",
+    "note": 6.4,
+    "prix": null,
+    "lat": 49.91856793088747,
+    "lon": 2.2933133845799603,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "ibis Styles Amiens Centre",
+    "url": "https://www.booking.com/hotel/fr/ibis-styles-amiens-centre.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 49.891422,
+    "lon": 2.304996,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Mercure Amiens Cathédrale",
+    "url": "https://www.booking.com/hotel/fr/mercure-amiens-cathdrale.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 49.89571084445366,
+    "lon": 2.299562394618988,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Maison Famille-Confort-Terrasse Jardin-Vue Cathédrale",
+    "url": "https://www.booking.com/hotel/fr/maison-famille-47-teletravail-47-belle-vue-direct-paris.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 49.900628999101,
+    "lon": 2.313431725685,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Comfort Hotel Amiens Nord",
+    "url": "https://www.booking.com/hotel/fr/kyriad-amiens-nord-xml.fr.html",
+    "note": 7.3,
+    "prix": null,
+    "lat": 49.925134033343554,
+    "lon": 2.3045727610588074,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Appart'City Confort Amiens Gare",
+    "url": "https://www.booking.com/hotel/fr/appart-city-amiens.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 49.8943163,
+    "lon": 2.3097612000000254,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Appt au pied de la cathédrale-parking dans la cour",
+    "url": "https://www.booking.com/hotel/fr/appt-au-pied-de-la-cathedrale-parking-dans-la-cour.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 49.8936684,
+    "lon": 2.3039466,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Moxy Amiens",
+    "url": "https://www.booking.com/hotel/fr/campanile-amiens-centre-gare.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 49.891249,
+    "lon": 2.30953,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Maison cosy avec 3 chambres et 3 salles de bains",
+    "url": "https://www.booking.com/hotel/fr/maison-de-famille-toute-equipee-au-centre-ville.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 49.9022645,
+    "lon": 2.3036914,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "B&B HOTEL Amiens Sud",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-amiens-sud.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 49.8704669,
+    "lon": 2.3023817,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "You Hotel Amiens - Handwritten Collection",
+    "url": "https://www.booking.com/hotel/fr/you-amiens-handwritten-collection.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 49.89109,
+    "lon": 2.313307,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "DOMITYS - La Plume de Samara",
+    "url": "https://www.booking.com/hotel/fr/domitys-la-plume-de-samara.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 49.8791407531349,
+    "lon": 2.26473945388273,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Elegant 120m2-Face cathedrale-6 pers-free Parking",
+    "url": "https://www.booking.com/hotel/fr/splendid-cathedral-amiens-duplex-hyper-centre.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 49.8953253054515,
+    "lon": 2.29772850807481,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Duplex moderne et lumineux",
+    "url": "https://www.booking.com/hotel/fr/duplex-moderne-et-lumineux.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 49.906861,
+    "lon": 2.290377,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "\"Au jardin sur l'eau\" Hortillonnages",
+    "url": "https://www.booking.com/hotel/fr/au-jardin-sur-l-39-eau.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 49.886683,
+    "lon": 2.335212,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Le Saint Louis",
+    "url": "https://www.booking.com/hotel/fr/le-saint-louis-amienq.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 49.889778847078894,
+    "lon": 2.3024994134902954,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Résidence NOVAGE - Amiens",
+    "url": "https://www.booking.com/hotel/fr/novage-services-amiens.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 49.8749713,
+    "lon": 2.2714229,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Hotel Le Prieuré et La Résidence",
+    "url": "https://www.booking.com/hotel/fr/le-prieure-amiens.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 49.894445193999786,
+    "lon": 2.3009423911571503,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Appt au pied de la cathédrale avec parking gratuit",
+    "url": "https://www.booking.com/hotel/fr/appt-au-pied-de-la-cathedrale-avec-parking-gratuit.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 49.8938402,
+    "lon": 2.3041519,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Maison confortable, terrasse et jardin à Amiens",
+    "url": "https://www.booking.com/hotel/fr/maison-confortable-terrasse-et-jardin-a-amiens.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 49.872676988339,
+    "lon": 2.326059528747,
+    "city_id": 7
+  },
+  {
+    "ville": "Amiens",
+    "nom": "Maison de ville spacieuse et calme en plein coeur d'Amiens",
+    "url": "https://www.booking.com/hotel/fr/maison-de-ville-spacieuse-et-calme-en-plein-coeur-d-amiens.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 49.8970631,
+    "lon": 2.3037001,
+    "city_id": 7
+  }
+]

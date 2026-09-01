@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Bayonne",
+    "nom": "ibis budget Bayonne",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-bayonne.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.489082618638825,
+    "lon": -1.4571780861297157,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Hotel Cote Basque",
+    "url": "https://www.booking.com/hotel/fr/cote-basque.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.49618306480432,
+    "lon": -1.4696010947227478,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Hôtel Les Genêts Bayonne",
+    "url": "https://www.booking.com/hotel/fr/restaurant-les-genets.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 43.464948964686116,
+    "lon": -1.4958438277244568,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Premiere Classe Bayonne",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-bayonne.fr.html",
+    "note": 7.1,
+    "prix": null,
+    "lat": 43.49048959433391,
+    "lon": -1.4520353078842163,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Adonis Hotel Bayonne",
+    "url": "https://www.booking.com/hotel/fr/adonis-bayonne.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 43.489400278396175,
+    "lon": -1.431714497253438,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Hôtel Le Bayonne",
+    "url": "https://www.booking.com/hotel/fr/le-bayonne-ha-tel.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.485026198989566,
+    "lon": -1.4753705263137817,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Bayonne en plein cœur Centre Historique 2 chambres",
+    "url": "https://www.booking.com/hotel/fr/bayonne-en-plein-coeur-centre-historique-2-chambres.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.4890699,
+    "lon": -1.4755226,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "OKKO Hotels Bayonne Centre",
+    "url": "https://www.booking.com/hotel/fr/okko-hotels-bayonne-centre.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.49534430000001,
+    "lon": -1.4825117999999975,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Temporesidence Chateauneuf",
+    "url": "https://www.booking.com/hotel/fr/temporesidence-chateauneuf.fr.html",
+    "note": 7.1,
+    "prix": null,
+    "lat": 43.489910682705116,
+    "lon": -1.4731402695178986,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Appartement résidence récente",
+    "url": "https://www.booking.com/hotel/fr/appartement-residence-neuve.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.5057686,
+    "lon": -1.4596692,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Hostel20 Bayonne",
+    "url": "https://www.booking.com/hotel/fr/hostel-20-bayonne.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 43.49535,
+    "lon": -1.468753,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Hotel Loreak",
+    "url": "https://www.booking.com/hotel/fr/comfort-bayonne-biarritz.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.49349108918729,
+    "lon": -1.4526334404945374,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "appartement bayonne",
+    "url": "https://www.booking.com/hotel/fr/appartement-bayonne-bayonne1.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.4966626,
+    "lon": -1.4843779,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "L'authentique - Centre - Calme - Équipé - Basque",
+    "url": "https://www.booking.com/hotel/fr/authentique-centre-calme-equipe-basque.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.49191213222,
+    "lon": -1.476238667459,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "cocon du petit Bayonne",
+    "url": "https://www.booking.com/hotel/fr/cocon-du-petit-bayonne.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.4911393378591,
+    "lon": -1.47192523761035,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Hotel Le Port Neuf",
+    "url": "https://www.booking.com/hotel/fr/le-port-neuf.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.49166880556409,
+    "lon": -1.47638238966465,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Appartement Bayonnais, au cœur de la verdure",
+    "url": "https://www.booking.com/hotel/fr/appartement-bayonnais-au-coeur-de-la-verdure.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.4684627,
+    "lon": -1.4857084,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "ibis Bayonne Centre",
+    "url": "https://www.booking.com/hotel/fr/ibis-bayonne.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.492713,
+    "lon": -1.465659,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Bayonne centre ville - Quartier historique",
+    "url": "https://www.booking.com/hotel/fr/bayonne-centre-ville-quartier-historique.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.4896408,
+    "lon": -1.4760456,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "L'âme Nomade - Bayonne Centre",
+    "url": "https://www.booking.com/hotel/fr/l-39-ame-nomade-bayonne-centre.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.497874986986,
+    "lon": -1.48486985,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Agréable T2 cosy proche du centre de Bayonne",
+    "url": "https://www.booking.com/hotel/fr/agreable-t2-cosy-proche-du-centre-de-bayonne.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 43.4937641,
+    "lon": -1.4622943,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "B&B HOTEL Bayonne",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-bayonne.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 43.4645147,
+    "lon": -1.4959652999999662,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Campanile NATURE - Bayonne",
+    "url": "https://www.booking.com/hotel/fr/campanile-bayonne.fr.html",
+    "note": 6.9,
+    "prix": null,
+    "lat": 43.491124931297946,
+    "lon": -1.454840898513794,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "appart 3 chambres 76m2 centre historique",
+    "url": "https://www.booking.com/hotel/fr/appart-3-chambres-76m2-centre-historique.fr.html",
+    "note": 7.4,
+    "prix": null,
+    "lat": 43.4923718,
+    "lon": -1.465354,
+    "city_id": 34
+  },
+  {
+    "ville": "Bayonne",
+    "nom": "Appartement calme à Bayonne",
+    "url": "https://www.booking.com/hotel/fr/appartement-seque.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.509315,
+    "lon": -1.43246,
+    "city_id": 34
+  }
+]

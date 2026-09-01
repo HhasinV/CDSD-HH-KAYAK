@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Le Havre",
+    "nom": "F3 - Rue Casimir Delavigne",
+    "url": "https://www.booking.com/hotel/fr/f3-rue-casimir-delavigne.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 49.4960705,
+    "lon": 0.1259545,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Les Beaux Volumes - Grand T2 rénové tout confort",
+    "url": "https://www.booking.com/hotel/fr/les-beaux-volumes-grand-t2-renove-tout-confort-le-havre.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 49.5013276,
+    "lon": 0.1318592,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "All Suites Appart Hôtel - Le Havre Centre - Les docks",
+    "url": "https://www.booking.com/hotel/fr/all-suites-appart-le-havre.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 49.488691,
+    "lon": 0.12592899999999999,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Novotel Le Havre Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/novotellehavre.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 49.49160831471097,
+    "lon": 0.12526988983154297,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Studio Meublé Vue Mer",
+    "url": "https://www.booking.com/hotel/fr/studio-meuble-vue-mer.fr.html",
+    "note": 6.2,
+    "prix": null,
+    "lat": 49.48894603271998,
+    "lon": 0.0995514179992707,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Hilton Garden Inn Le Havre Centre",
+    "url": "https://www.booking.com/hotel/fr/hilton-garden-inn-le-havre-centre.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 49.49008699,
+    "lon": 0.097746957,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Parenthèse Balnéaire - Studio détente à la plage",
+    "url": "https://www.booking.com/hotel/fr/parenthese-balneaire-studio-detente-a-la-plage.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 49.4900512,
+    "lon": 0.099952,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Appart'hôtel Odalys City - Le Havre Centre Les Docks",
+    "url": "https://www.booking.com/hotel/fr/odalys-city-le-havre-centre-les-docks.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 49.4925039,
+    "lon": 0.129779,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Appartement 83 m2, 4 lits , 5 Pers, 100 m de la gare, Confortable et Lumineux",
+    "url": "https://www.booking.com/hotel/fr/appartement-renove-100-m-de-la-gare-83-m2-5-pers-confortable-et-lumineux.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 49.4923644,
+    "lon": 0.1226079,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Ibis Budget Le Havre Les Docks",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-le-havre-centre.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 49.49424468286882,
+    "lon": 0.14285242609787474,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Appartement Perret - Hyper Centre",
+    "url": "https://www.booking.com/hotel/fr/appartement-perret-hyper-centre.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 49.4863512,
+    "lon": 0.1087793,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Studio agréable",
+    "url": "https://www.booking.com/hotel/fr/studio-agreable-le-havre.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 49.5201941,
+    "lon": 0.0837986,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Hotel Spa Le Pasino",
+    "url": "https://www.booking.com/hotel/fr/pasino.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 49.49117449151481,
+    "lon": 0.11193662881851196,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Aparthotel Adagio Access Le Havre Les Docks",
+    "url": "https://www.booking.com/hotel/fr/adagio-access-le-havre-les-docks.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 49.48741929210898,
+    "lon": 0.1315112120937556,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Le Transatlantique - Terrasse ext privative",
+    "url": "https://www.booking.com/hotel/fr/le-transatlantique-terrasse-ext-privative.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 49.4976063,
+    "lon": 0.1395366,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "UNISOTEL Le Havre",
+    "url": "https://www.booking.com/hotel/fr/eklo-hotels-le-havre.fr.html",
+    "note": 6.1,
+    "prix": null,
+    "lat": 49.51986370502591,
+    "lon": 0.11632613638460043,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Premiere Classe Le Havre Centre-LES DOCKS",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-le-havre-centre.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 49.49641693487313,
+    "lon": 0.15151233802873776,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Le French Riviera - Vue Mer Terrasse & Parking",
+    "url": "https://www.booking.com/hotel/fr/the-french-riviera-sea-view-terrace-parking.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 49.4983027,
+    "lon": 0.0919979,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Tous à la Plage Lit King Size",
+    "url": "https://www.booking.com/hotel/fr/tous-a-la-plage-lit-king-size.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 49.4981147,
+    "lon": 0.0960982,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "La Longue Vue-Appart vue mer avec balcon-parking",
+    "url": "https://www.booking.com/hotel/fr/la-longue-vue-appart-vue-mer-avec-balcon-et-parking.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 49.492342,
+    "lon": 0.09683939999999999,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Appartement agréable et confortable pour 4 personnes",
+    "url": "https://www.booking.com/hotel/fr/bel-appartement-t2-le-havre.fr.html",
+    "note": 6.4,
+    "prix": null,
+    "lat": 49.498724448495,
+    "lon": 0.129134234943,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Le Saint Joseph - Vue Centre-ville Parking",
+    "url": "https://www.booking.com/hotel/fr/le-saint-joseph-vue-centre-ville-parking.fr.html",
+    "note": 10.0,
+    "prix": null,
+    "lat": 49.4916531,
+    "lon": 0.1051335,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "The Originals Boutique, Hôtel Le Marignan,Le Havre Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/la-baraka.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 49.4922790779481,
+    "lon": 0.12310802936554,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "ibis Le Havre Centre",
+    "url": "https://www.booking.com/hotel/fr/hotelibislehavre.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 49.4916414175279,
+    "lon": 0.11876016855239868,
+    "city_id": 4
+  },
+  {
+    "ville": "Le Havre",
+    "nom": "Appartement vue Saint Joseph",
+    "url": "https://www.booking.com/hotel/fr/appartement-vue-saint-joseph.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 49.4904733,
+    "lon": 0.1003193,
+    "city_id": 4
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Domaine du Haut-Koenigsbourg",
+    "url": "https://www.booking.com/hotel/fr/les-chambres-du-haut-koenigsbourg.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": null,
+    "lon": null,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Au pied du Château",
+    "url": "https://www.booking.com/hotel/fr/au-pied-du-chateau-orschwiller.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 48.2484025,
+    "lon": 7.3548257,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "La forêt Enchantée - Cozy Immo",
+    "url": "https://www.booking.com/hotel/fr/la-foret-enchantee-cozy-immo.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 48.2484025,
+    "lon": 7.3548257,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "La Fermette vosgienne de la Goutte",
+    "url": "https://www.booking.com/hotel/fr/fermette-vosgienne-de-la-goutte.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 48.362205747506,
+    "lon": 7.237262975769,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Maison Kieffer - Hotel & Vins d'Alsace",
+    "url": "https://www.booking.com/hotel/fr/restaurant-kieffer.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.3638867496874,
+    "lon": 7.43345888582758,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Chalet Les Prés",
+    "url": "https://www.booking.com/hotel/fr/chalet-les-pres.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.306686062731,
+    "lon": 7.341078217061,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Gîte de Juliana 6 personnes Baldenheim",
+    "url": "https://www.booking.com/hotel/fr/gite-de-juliana-6-personnes-baldenheim.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.2374529,
+    "lon": 7.5398297,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Gîtes Strengbach",
+    "url": "https://www.booking.com/hotel/fr/strenbach.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 48.19419228798212,
+    "lon": 7.31830349325412,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Les Ailes de Morphée",
+    "url": "https://www.booking.com/hotel/fr/les-ailes-de-morphee.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 48.3429476,
+    "lon": 7.303825,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Appartement plain-pied au coeur de l'Alsace",
+    "url": "https://www.booking.com/hotel/fr/appartement-plain-pied-au-coeur-de-l-alsace.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 48.2645536,
+    "lon": 7.5333957,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Hotel Elisabeth",
+    "url": "https://www.booking.com/hotel/fr/elisabeth.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.28412545401512,
+    "lon": 7.302055209875107,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Gîte 2 - Aux Deux Hameaux",
+    "url": "https://www.booking.com/hotel/fr/gites-aux-deux-hameaux-2.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 48.33605194091797,
+    "lon": 7.357649803161621,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Gite Bellevue",
+    "url": "https://www.booking.com/hotel/fr/gite-bellevue.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 48.3629937,
+    "lon": 7.292412499999955,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Chez Yolande",
+    "url": "https://www.booking.com/hotel/fr/haemmerle.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.35651166497067,
+    "lon": 7.421663313193108,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Duplex au cœur de l’Alsace",
+    "url": "https://www.booking.com/hotel/fr/duplex-au-coeur-de-l-alsace.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 48.2645536,
+    "lon": 7.5333957,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "La Cour de Mamama Appartement 4 Climatisé",
+    "url": "https://www.booking.com/hotel/fr/la-cour-de-mamama-appartement.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 48.18139584164154,
+    "lon": 7.509469621039329,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Hôtel De La Couronne",
+    "url": "https://www.booking.com/hotel/fr/de-la-couronne.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.166433549972986,
+    "lon": 7.297828048467636,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Gite-Annie",
+    "url": "https://www.booking.com/hotel/fr/gite-annie.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.1819343,
+    "lon": 7.31386029999999,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Spacieux duplex 1 à 6 personnes",
+    "url": "https://www.booking.com/hotel/fr/spacieux-duplex-1-a-6-personnes.fr.html",
+    "note": 9.9,
+    "prix": null,
+    "lat": 48.30435,
+    "lon": 7.502731,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "P'tit Biscuit",
+    "url": "https://www.booking.com/hotel/fr/p-39-tit-biscuit.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 48.1666001,
+    "lon": 7.2976769,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Le duplex du Ried à Muttersholtz en Alsace proche Europa Park",
+    "url": "https://www.booking.com/hotel/fr/le-duplex-du-ried-a-proximite-d-europapark.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.2653965,
+    "lon": 7.5321072,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Chambres d'hôtes Ruhlmann",
+    "url": "https://www.booking.com/hotel/fr/chambres-d-ha-tesl-ruhlmann.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.3246529638004,
+    "lon": 7.426789999008179,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Gite HEINRICH",
+    "url": "https://www.booking.com/hotel/fr/gite-heinrich.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 48.303463,
+    "lon": 7.502023,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Gîtes de la Maison Vigneronne, au Coeur de Ribeauvillé",
+    "url": "https://www.booking.com/hotel/fr/gites-de-la-maison-vigneronne.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 48.19374739215106,
+    "lon": 7.320177255294766,
+    "city_id": 10
+  },
+  {
+    "ville": "Chateau du Haut Koenigsbourg",
+    "nom": "Bien être et détente chez côté campagne et jardin",
+    "url": "https://www.booking.com/hotel/fr/bien-etre-et-detente-chez-cote-campagne-et-jardin-ohnenheim.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 48.1862494,
+    "lon": 7.506879,
+    "city_id": 10
+  }
+]

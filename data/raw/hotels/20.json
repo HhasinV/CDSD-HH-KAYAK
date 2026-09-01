@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Cassis",
+    "nom": "L’Aiguade, appartement d'exception à Cassis",
+    "url": "https://www.booking.com/hotel/fr/aiguade-appartement-d-exception-a-cassis.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 43.2141154,
+    "lon": 5.5338211,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Cassis Hostel",
+    "url": "https://www.booking.com/hotel/fr/cassis-hostel.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.21634592786943,
+    "lon": 5.5328138172626495,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Hotel Le Golfe",
+    "url": "https://www.booking.com/hotel/fr/le-golfe-cassis.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.21443437507463,
+    "lon": 5.535294860601425,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Au Petit chez Soi",
+    "url": "https://www.booking.com/hotel/fr/le-16.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.215481591153036,
+    "lon": 5.537836249826569,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Seaview.Cassis",
+    "url": "https://www.booking.com/hotel/fr/seaview-cassis.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.2144315,
+    "lon": 5.5350757999999995,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Villa Bobnell",
+    "url": "https://www.booking.com/hotel/fr/villa-bobnell.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.22045190000001,
+    "lon": 5.536090800000011,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Au son des Cigales",
+    "url": "https://www.booking.com/hotel/fr/au-son-des-cigales-cassis.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.215086781027,
+    "lon": 5.530949017791,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Appart Bianca T2 - Terrasse - Parking - Calme - 1mn de la mer",
+    "url": "https://www.booking.com/hotel/fr/appart-bianca-t2-terrasse-parking-calme-1mn-de-la-mer.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.207747,
+    "lon": 5.5221918,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "La douceur de Cassis",
+    "url": "https://www.booking.com/hotel/fr/la-douceur-de-cassis.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.215009,
+    "lon": 5.530956,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Hotel de La Plage - Mahogany",
+    "url": "https://www.booking.com/hotel/fr/de-la-plage-cassis.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.213349460527084,
+    "lon": 5.531262829899788,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Les Jardins de Cassis - Parking Gratuit & Piscine Chauffée",
+    "url": "https://www.booking.com/hotel/fr/les-jardins-de-cassis.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.221840494518375,
+    "lon": 5.543384896958969,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "The Originals Boutique, Hôtel Cassitel, Cassis",
+    "url": "https://www.booking.com/hotel/fr/interhotel-cassitel.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.213706213836964,
+    "lon": 5.538958087563515,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "L'appart Cassis",
+    "url": "https://www.booking.com/hotel/fr/appart-cassis.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.214378,
+    "lon": 5.5387926,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "La Cassy - Sleep in Cassis",
+    "url": "https://www.booking.com/hotel/fr/sleep-in-cassis.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.21351434634,
+    "lon": 5.539700449428,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Appartement centre du village",
+    "url": "https://www.booking.com/hotel/fr/appartement-centre-du-village-cassis.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.2136781,
+    "lon": 5.5405653,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "LE COSY Appartement à CASSIS avec vue exceptionnelle sur mer",
+    "url": "https://www.booking.com/hotel/fr/appartement-cosy-a-cassis-avec-vue-exceptionnelle-sur-mer.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.2159280399956,
+    "lon": 5.53460244166412,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Le Perchoir de Cassis Cocoon",
+    "url": "https://www.booking.com/hotel/fr/le-perchoir-de-cassis-cocoon.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.2146895,
+    "lon": 5.5394424,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Best Western Hotel & SPA Coeur De Cassis",
+    "url": "https://www.booking.com/hotel/fr/du-grand-jardin.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.21457326278473,
+    "lon": 5.540146976709366,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Magnifique appartement Cassis",
+    "url": "https://www.booking.com/hotel/fr/magnifique-appartement-cassis.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.2162109,
+    "lon": 5.5365082,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Vue Mer Dans Belle Résidence",
+    "url": "https://www.booking.com/hotel/fr/vue-mer-dans-belle-residence.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.2169229,
+    "lon": 5.529700999999999,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Au calme, 200m du centre T2 avec balcon et parking",
+    "url": "https://www.booking.com/hotel/fr/au-calme-200m-du-centre-t2-avec-balcon-et-parking-cassis1.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.21624027779891,
+    "lon": 5.544784488982444,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Chez nous Cassis",
+    "url": "https://www.booking.com/hotel/fr/chez-nous-cassis.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.226680454094776,
+    "lon": 5.537322945892811,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Le Cézanne, 200m plage, grand balcon ,Wifi,",
+    "url": "https://www.booking.com/hotel/fr/le-cezanne-200m-plage-wifi-parking.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 43.214389798484,
+    "lon": 5.543119836052,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "Best Western Plus Hôtel la Rade",
+    "url": "https://www.booking.com/hotel/fr/la-rade-cassis.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.21522996680949,
+    "lon": 5.533696934580803,
+    "city_id": 20
+  },
+  {
+    "ville": "Cassis",
+    "nom": "80m2 à 200m de la calanque de Port Miou - 2 chambres et parking",
+    "url": "https://www.booking.com/hotel/fr/80m2-a-200m-de-la-calanque-de-port-miou-2-chambres-et-parking.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.2115707,
+    "lon": 5.5240701,
+    "city_id": 20
+  }
+]

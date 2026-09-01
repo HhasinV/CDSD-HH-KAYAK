@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Colmar",
+    "nom": "Colmar Hotel",
+    "url": "https://www.booking.com/hotel/fr/colmar.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 48.070800737248675,
+    "lon": 7.346389726389361,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Résidence Pierre & Vacances La Petite Venise",
+    "url": "https://www.booking.com/hotel/fr/la-petite-venise.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.070939860424986,
+    "lon": 7.3538655640004436,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Appartements centre ville Colmar 4 familles",
+    "url": "https://www.booking.com/hotel/fr/appartement-centre-ville-colmar-2-colmar.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 48.0761344,
+    "lon": 7.36387949999994,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Hôtel Maison Turenne",
+    "url": "https://www.booking.com/hotel/fr/turenne-colmar.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.07192026320514,
+    "lon": 7.360539436340332,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Cozy place in Colmar",
+    "url": "https://www.booking.com/hotel/fr/cozy-place-in-colmar.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 48.0772482,
+    "lon": 7.3375627,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Novotel Suites Colmar Centre",
+    "url": "https://www.booking.com/hotel/fr/novotel-suites-colmar-centre.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.07161741558895,
+    "lon": 7.3599910552253505,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Appartement centre Colmar tout confort",
+    "url": "https://www.booking.com/hotel/fr/appartement-centre-colmar-tout-confort.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 48.0783461,
+    "lon": 7.352653,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "ibis Colmar Centre",
+    "url": "https://www.booking.com/hotel/fr/ibis-colmar-centre.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 48.079198,
+    "lon": 7.363507,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "les magnolias",
+    "url": "https://www.booking.com/hotel/fr/les-magnolias-colmar.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.086071,
+    "lon": 7.367808,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "À la petite Venise hyper centre Colmar",
+    "url": "https://www.booking.com/hotel/fr/a-la-petite-venise-hyper-centre-colmar.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.0739967,
+    "lon": 7.3593907,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "ibis Budget Colmar Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-colmar-centre-ville.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 48.079697589205196,
+    "lon": 7.352361588954864,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Cit'Hotel Primo Colmar Centre",
+    "url": "https://www.booking.com/hotel/fr/primo-colmar.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 48.081514688242486,
+    "lon": 7.357281222939491,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Les Remparts - Parking",
+    "url": "https://www.booking.com/hotel/fr/gite-rue-de-l-est.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.0776012,
+    "lon": 7.3645817,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Appartement Duplex 2a Rue d'Alspach",
+    "url": "https://www.booking.com/hotel/fr/appartement-duplex-2a-rue-d-39-alspach.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 48.0780477,
+    "lon": 7.3613802,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Le rohan sawadee",
+    "url": "https://www.booking.com/hotel/fr/le-rohan-sawadee.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.077559891985,
+    "lon": 7.354814738135,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "B&B HOTEL Colmar Lumière",
+    "url": "https://www.booking.com/hotel/fr/roi-soleil.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 48.1124779999594,
+    "lon": 7.3676687479019165,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Au Coeur de Colmar",
+    "url": "https://www.booking.com/hotel/fr/au-coeur-de-colmar-colmar.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.083072,
+    "lon": 7.3567299,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "COLMAR Appartement 6 personnes parking privé JAB'S HOME 2",
+    "url": "https://www.booking.com/hotel/fr/colmar-appartement-6-personnes-parking-prive-jabs-home-2.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 48.0845696,
+    "lon": 7.3557886,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Coco Room Colmar",
+    "url": "https://www.booking.com/hotel/fr/coco-room-colmar.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.0669237,
+    "lon": 7.3662442,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Appartement cosy à 5mn du Parc des Expositions",
+    "url": "https://www.booking.com/hotel/fr/appartement-cosy-a-5mn-du-parc-des-expositions.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.0905975,
+    "lon": 7.3594033,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Appartement climatisé avec jardin",
+    "url": "https://www.booking.com/hotel/fr/appartement-avec-jardin-a-colmar.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 48.08500326569,
+    "lon": 7.339460030689,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Hotel L'Europe Colmar, BW Signature Collection",
+    "url": "https://www.booking.com/hotel/fr/l-europe.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.0772062173984,
+    "lon": 7.403871864080429,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Seppala charmant appartement",
+    "url": "https://www.booking.com/hotel/fr/seppala-charmant-appartement.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.0772883,
+    "lon": 7.3621985,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Bonjour Colmar",
+    "url": "https://www.booking.com/hotel/fr/bonjour-colmar.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.078802328047,
+    "lon": 7.357083657043,
+    "city_id": 11
+  },
+  {
+    "ville": "Colmar",
+    "nom": "Le charme d'Alsace",
+    "url": "https://www.booking.com/hotel/fr/le-charme-d-alsace.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.0836082189982,
+    "lon": 7.34945535869142,
+    "city_id": 11
+  }
+]

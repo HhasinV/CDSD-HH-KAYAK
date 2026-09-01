@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Bormes - Le Loft",
+    "url": "https://www.booking.com/hotel/fr/bormes-le-loft.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.1507533,
+    "lon": 6.3406583,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Hotel La Voile",
+    "url": "https://www.booking.com/hotel/fr/hotel-la-voile-fr.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 43.12549,
+    "lon": 6.357300000000009,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Linaya Hôtel & Restaurant",
+    "url": "https://www.booking.com/hotel/fr/linaya-amp-restaurant.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 43.1217418,
+    "lon": 6.3567413,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Camping Clau Mar Jo",
+    "url": "https://www.booking.com/hotel/fr/cmaping-clau-mar-jo.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.13461922500552,
+    "lon": 6.3467757403850555,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Camping Tikayan Clau Mar Jo - Maeva",
+    "url": "https://www.booking.com/hotel/fr/camping-tikayan-clau-mar-jo.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.1345243,
+    "lon": 6.3474833,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Le Mirage",
+    "url": "https://www.booking.com/hotel/fr/le-domaine-du-mirage.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.144568554121996,
+    "lon": 6.351684182882309,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Apartment Le Clos Jardin-1 by Interhome",
+    "url": "https://www.booking.com/hotel/fr/apartment-le-clos-jardin.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.146263,
+    "lon": 6.34303,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Camping Le Camp Du Domaine",
+    "url": "https://www.booking.com/hotel/fr/camp-du-domaine-duo-2p.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.1164148,
+    "lon": 6.3576651,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Hostellerie du Cigalou",
+    "url": "https://www.booking.com/hotel/fr/hostellerie-du-cigalou.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.1519579,
+    "lon": 6.343283499999984,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "The Little House",
+    "url": "https://www.booking.com/hotel/fr/the-little-house-bormes-les-mimosas.fr.html",
+    "note": 9.9,
+    "prix": null,
+    "lat": 43.150360805018,
+    "lon": 6.342202005523,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Hotel Restaurant Bellevue",
+    "url": "https://www.booking.com/hotel/fr/restaurant-bellevue.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 43.15187759303926,
+    "lon": 6.343135982751846,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Hôtel Paradis",
+    "url": "https://www.booking.com/hotel/fr/paradis.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 43.144686,
+    "lon": 6.335125000000062,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Appartement pieds dans l’eau Vue Mer Bormes Les Mimosas",
+    "url": "https://www.booking.com/hotel/fr/appartement-pieds-dans-l-eau-vue-mer-bormes-les-mimosas.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.122153051238,
+    "lon": 6.3594635804260005,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "La petite Provence",
+    "url": "https://www.booking.com/hotel/fr/lovely-place-for-2.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.15127099096753,
+    "lon": 6.341906766830476,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Superbe T2 4 étoiles climatisé Favière refait à neuf",
+    "url": "https://www.booking.com/hotel/fr/superbe-t2-4-etoiles-climatise-faviere-refait-a-neuf.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.1238485,
+    "lon": 6.3598623,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "SELECT'soHOME - Maison neuve avec piscine - Parking inclus - EVASION",
+    "url": "https://www.booking.com/hotel/fr/select-sohome-maison-neuve-avec-piscine-parking-inclus-evasion.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.133895,
+    "lon": 6.34062,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Superbe T4 -Vue Mer- Tout Confort Refait à Neuf!",
+    "url": "https://www.booking.com/hotel/fr/superbe-t4-vue-mer-tout-confort-refait-a-neuf.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.144880504118,
+    "lon": 6.35332445477,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Superbe Duplex 35m2 vue mer avec piscine",
+    "url": "https://www.booking.com/hotel/fr/voir-les-photos-presentationemplacementcommentairesl-39-hote-2-pieces-35m2-borme.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.1431217,
+    "lon": 6.35213980000003,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Maison à 700m de la mer",
+    "url": "https://www.booking.com/hotel/fr/appartement-duplex-a-700m-de-la-mer.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.124079792347,
+    "lon": 6.351798812714,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Cozy apartment",
+    "url": "https://www.booking.com/hotel/fr/cozy-apartment-bormes-les-mimosas.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.14190346964755,
+    "lon": 6.3547188037048175,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Peaceful Seaview Apartment with Beach & Pool Access, Air Conditioning",
+    "url": "https://www.booking.com/hotel/fr/bormes-les-mimosas-appartement-vue-mer-4-pers.fr.html",
+    "note": 6.8,
+    "prix": null,
+    "lat": 43.121972535797,
+    "lon": 6.358379364032,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Appartement Favière-plage, Piscine-Terrain de tennis-Foot",
+    "url": "https://www.booking.com/hotel/fr/appartement-acces-direct-a-la-plage-piscine-terrain-de-tennis-foot.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.12196366472231,
+    "lon": 6.357749980495466,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Le petit atelier",
+    "url": "https://www.booking.com/hotel/fr/le-petit-atelier-bormes-les-mimosas1234567891011121314151617.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 43.142501,
+    "lon": 6.3491788,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Village Vacances La Manne",
+    "url": "https://www.booking.com/hotel/fr/village-vacances-la-manne.fr.html",
+    "note": 6.0,
+    "prix": null,
+    "lat": 43.1304380553383,
+    "lon": 6.33633698913263,
+    "city_id": 19
+  },
+  {
+    "ville": "Bormes les Mimosas",
+    "nom": "Mer et soleil",
+    "url": "https://www.booking.com/hotel/fr/mer-et-soleil-bormes-les-mimosas.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.12559147449615,
+    "lon": 6.355554149073774,
+    "city_id": 19
+  }
+]

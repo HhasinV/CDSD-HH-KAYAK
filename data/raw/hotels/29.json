@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Carcassonne",
+    "nom": "Tribe Carcassonne",
+    "url": "https://www.booking.com/hotel/fr/des-trois-couronnes.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.2103057323667,
+    "lon": 2.3577556014060974,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Le Petit Rempart T2 vue sur remparts de la Cité",
+    "url": "https://www.booking.com/hotel/fr/le-petit-rempart-t2-vue-sur-remparts-de-la-cite.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.2077458,
+    "lon": 2.3612396,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Premiere Classe Carcassonne",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-carcassonne.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 43.20661669443973,
+    "lon": 2.3127923905849457,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "45BB",
+    "url": "https://www.booking.com/hotel/fr/45bb.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 43.210256,
+    "lon": 2.350132,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Carcassonne Bed and Breakfast du Palais",
+    "url": "https://www.booking.com/hotel/fr/carcassonne-bed-and-breakfast-du-palais.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 43.2135992,
+    "lon": 2.3570812,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "ibis Styles Carcassonne La Cité",
+    "url": "https://www.booking.com/hotel/fr/inter-les-oliviers.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.20758442867867,
+    "lon": 2.3727142810821533,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "GOOD KNIGHT",
+    "url": "https://www.booking.com/hotel/fr/good-knight.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.207746,
+    "lon": 2.366914,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "La Cité Secrète",
+    "url": "https://www.booking.com/hotel/fr/la-cite-secrete.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.2085327,
+    "lon": 2.3625606,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Le Bastide Cosy",
+    "url": "https://www.booking.com/hotel/fr/appartement-lumineux-en-centre-ville-carcassonne.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.2122512,
+    "lon": 2.3496645,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "ibis budget Carcassonne La Cité",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-carcassonne-la-cite.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 43.20765480875172,
+    "lon": 2.3788082599639893,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Hotel du Roi & Spa by SOWELL COLLECTION",
+    "url": "https://www.booking.com/hotel/fr/soleilvacances-du-roi.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.21085,
+    "lon": 2.357769,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Campanile Carcassonne Est - La Cité",
+    "url": "https://www.booking.com/hotel/fr/campanile-carcassonne-est-la-cite.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.2091777354415,
+    "lon": 2.3870547115802765,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "appartement cosy au pied du pont vieux",
+    "url": "https://www.booking.com/hotel/fr/appartement-cosy-au-pied-du-pont-vieux-carcassonne1.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.2106213,
+    "lon": 2.3574338,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Le Belvédère St Gimer",
+    "url": "https://www.booking.com/hotel/fr/le-belvedere-st-gimer.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 43.2068329,
+    "lon": 2.3612926,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Sur le quai",
+    "url": "https://www.booking.com/hotel/fr/sur-le-quai-courtaboeuf-cedex.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 43.20933920581196,
+    "lon": 2.3557129587402414,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "ibis budget Carcassonne Aéroport - A61",
+    "url": "https://www.booking.com/hotel/fr/etap-carcassonne-aeroport.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.204518906702106,
+    "lon": 2.3103904724121094,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Appartement Le Saint Nazaire - Les Balcons de la Cité",
+    "url": "https://www.booking.com/hotel/fr/les-balcons-de-la-cita-c-le-saint-nazaire.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.20692558905686,
+    "lon": 2.3528793454170227,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "SOWELL HOTELS Les Chevaliers",
+    "url": "https://www.booking.com/hotel/fr/soleil-vacances-les-chevaliers.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.21103244477474,
+    "lon": 2.3581999522190245,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Appartement PETIT SAINT GIMER",
+    "url": "https://www.booking.com/hotel/fr/appartement-petit-saint-gimer.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 43.2072018863315,
+    "lon": 2.3612222527793802,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Situation exceptionnelle HARMONY III",
+    "url": "https://www.booking.com/hotel/fr/harmony-3.fr.html",
+    "note": 9.9,
+    "prix": null,
+    "lat": 43.211813907974,
+    "lon": 2.352204980181,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Appartement Carcassonne résidence capucins",
+    "url": "https://www.booking.com/hotel/fr/appartement-carcassone-residence-capucins.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.2085464,
+    "lon": 2.348235,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "Studio avec parking vue sur la Cité de Carcassonne",
+    "url": "https://www.booking.com/hotel/fr/studio-avec-parking-vue-sur-la-cite-de-carcassonne-carcassonne.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.2203247,
+    "lon": 2.3515962,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "La Demeure de la Cité by Jean Bacou",
+    "url": "https://www.booking.com/hotel/fr/la-demeure-de-la-cite-by-jean-bacou.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.2076837,
+    "lon": 2.3644827,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "SalutBB Chambre d'hote",
+    "url": "https://www.booking.com/hotel/fr/salut-chambre-d-hote.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 43.2114488,
+    "lon": 2.3462993,
+    "city_id": 29
+  },
+  {
+    "ville": "Carcassonne",
+    "nom": "L impasse d'Anaïs Free Parking",
+    "url": "https://www.booking.com/hotel/fr/l-impasse-a-carcassonne.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.215233003364,
+    "lon": 2.353554023049,
+    "city_id": 29
+  }
+]

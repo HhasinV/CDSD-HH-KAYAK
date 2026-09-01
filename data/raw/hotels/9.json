@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Strasbourg",
+    "nom": "Hôtel Restaurant Athena Spa",
+    "url": "https://www.booking.com/hotel/fr/athena-spa.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.59173665086212,
+    "lon": 7.711704969406128,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Ibis Budget Strasbourg Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-strasbourg-centre-gare.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 48.5850817,
+    "lon": 7.736443300000019,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Residence Inn by Marriott Strasbourg",
+    "url": "https://www.booking.com/hotel/fr/residence-inn-by-marriott-strasbourg.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 48.59899457007954,
+    "lon": 7.762173176616698,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "The People - Strasbourg",
+    "url": "https://www.booking.com/hotel/fr/the-people-hostel-strasbourg.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 48.581195,
+    "lon": 7.757318,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "City Residence Access Strasbourg",
+    "url": "https://www.booking.com/hotel/fr/city-residence-access-strasbourg-strasbourg.fr.html",
+    "note": 7.1,
+    "prix": null,
+    "lat": 48.590014,
+    "lon": 7.73987,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "ibis Strasbourg Centre Historique",
+    "url": "https://www.booking.com/hotel/fr/hotel-ibis-strasbourg-centre-historique.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 48.57825013933904,
+    "lon": 7.735356191436381,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Hotel Strasbourg Montagne Verte & Restaurant - Free Parking",
+    "url": "https://www.booking.com/hotel/fr/comforthotelstras.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.57269177356032,
+    "lon": 7.7287135273218155,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "ibis Strasbourg Centre Les Halles",
+    "url": "https://www.booking.com/hotel/fr/ibis-strasbourg-centre-les-halles.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 48.58599411098718,
+    "lon": 7.743063457282915,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Chez Camille - Hypercentre - Tout confort - Tramway - Gare Centrale",
+    "url": "https://www.booking.com/hotel/fr/chez-camille-hypercentre-tout-confort-tramway-gare.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.5835408,
+    "lon": 7.7408554,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Novotel Strasbourg Centre Halles",
+    "url": "https://www.booking.com/hotel/fr/novotel-strasbourg-centre-halles.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 48.58567806265256,
+    "lon": 7.742520868778229,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Triplex place de la cathédrale",
+    "url": "https://www.booking.com/hotel/fr/triplex-place-de-la-cathedrale.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 48.5823158,
+    "lon": 7.7505446,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "voco Strasbourg Centre - The Garden by IHG",
+    "url": "https://www.booking.com/hotel/fr/voco-strasbourg-centre-the-garden.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 48.589685,
+    "lon": 7.739508,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Hôtel Arc-en-Ciel",
+    "url": "https://www.booking.com/hotel/fr/arc-en-ciel-strasbourg.fr.html",
+    "note": 6.5,
+    "prix": null,
+    "lat": 48.5788318,
+    "lon": 7.7175857,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Le Grand Hotel By Stay Collection",
+    "url": "https://www.booking.com/hotel/fr/legrandhotel.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.58469687655924,
+    "lon": 7.7365610003471375,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Appartement avec balcon centre ville Strasbourg",
+    "url": "https://www.booking.com/hotel/fr/appartement-avec-balcon-centre-ville-strasbourg.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.5852053,
+    "lon": 7.7471662,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "ibis Styles Strasbourg Avenue du Rhin",
+    "url": "https://www.booking.com/hotel/fr/ibis-strasbourg-avenue-du-rhin.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 48.569366,
+    "lon": 7.777568999999971,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "ibis Styles Strasbourg Stade de la Meinau",
+    "url": "https://www.booking.com/hotel/fr/ibis-strasbourg-la-meinau.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 48.5561877,
+    "lon": 7.7462478999999576,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "ibis Strasbourg Centre Petite France",
+    "url": "https://www.booking.com/hotel/fr/ibis-strasbourg-centre-petite-france.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 48.58253971270566,
+    "lon": 7.73732671705784,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Chambre 3 avec un lit simple",
+    "url": "https://www.booking.com/hotel/fr/chambre-3-bis.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 48.5788021,
+    "lon": 7.7778505,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Le Quai 2",
+    "url": "https://www.booking.com/hotel/fr/le-quai-2.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 48.5821574,
+    "lon": 7.7569606,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Résidence le premium, hyper centre, studio tout équipé",
+    "url": "https://www.booking.com/hotel/fr/magnifique-studio-hyper-centre-tout-equipe-strasbourg.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 48.5882786,
+    "lon": 7.7470764,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Citadines Eurometropole Strasbourg - Restaurant & SPA",
+    "url": "https://www.booking.com/hotel/fr/citadines-eurometropole-strasbourg.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 48.60427412195041,
+    "lon": 7.7044611217040915,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "hotelF1 Strasbourg Pont de l'Europe",
+    "url": "https://www.booking.com/hotel/fr/hotelf1-strasbourg-pont-de-l-europe.fr.html",
+    "note": 5.7,
+    "prix": null,
+    "lat": 48.57289100000002,
+    "lon": 7.792947312828119,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "La Lanterne - Magnifique T2 Strasbourg - Cathédrale à 300m",
+    "url": "https://www.booking.com/hotel/fr/lanterne-magnifique-t2-strasbourg-cathedrale-a-300m.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 48.581578,
+    "lon": 7.7471354,
+    "city_id": 9
+  },
+  {
+    "ville": "Strasbourg",
+    "nom": "Chambre 2 proche du campus n2",
+    "url": "https://www.booking.com/hotel/fr/chambre-2-avec-balcon.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 48.5788032,
+    "lon": 7.7778384,
+    "city_id": 9
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Lille",
+    "nom": "CENTRAL Hostel Lille Centre",
+    "url": "https://www.booking.com/hotel/fr/central-hostel-lille-centre.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 50.6347745,
+    "lon": 3.0550666,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "galerie jacqueline storme",
+    "url": "https://www.booking.com/hotel/fr/galerie-jacqueline-storme.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 50.6453748,
+    "lon": 3.0612643,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Residence Inn by Marriott Lille",
+    "url": "https://www.booking.com/hotel/fr/residence-inn-by-marriott-lille.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 50.63686518512836,
+    "lon": 3.0732429027557373,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "OKKO Hotels Lille Centre",
+    "url": "https://www.booking.com/hotel/fr/okko-hotels-lille-centre.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 50.634074,
+    "lon": 3.064229,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Mama Shelter Lille",
+    "url": "https://www.booking.com/hotel/fr/mama-shelter-lille.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 50.639065,
+    "lon": 3.070951,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "ibis Lille Centre Grand Palais",
+    "url": "https://www.booking.com/hotel/fr/ibis-lille-centre-grand-palais.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 50.633198486768755,
+    "lon": 3.074476813491856,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Moxy Lille City",
+    "url": "https://www.booking.com/hotel/fr/moxy-lille-city-center-france.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 50.627831,
+    "lon": 3.063592,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Grand Hotel Bellevue - Grand Place",
+    "url": "https://www.booking.com/hotel/fr/grandhotelbellevue.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 50.63654706975337,
+    "lon": 3.062342405319214,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Hotel Lille Europe",
+    "url": "https://www.booking.com/hotel/fr/lille-europe.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 50.63788756274342,
+    "lon": 3.0726850032806396,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Ibis Budget Lille Gares Vieux-Lille",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-lille-centre.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 50.6424142164996,
+    "lon": 3.0678700466270357,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Appartements de Louise",
+    "url": "https://www.booking.com/hotel/fr/appartements-de-louise.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 50.634665832722,
+    "lon": 3.063086959663,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Séjours & Affaires Lille Europe",
+    "url": "https://www.booking.com/hotel/fr/residence-lille-europe.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 50.63647023221562,
+    "lon": 3.0749092251062393,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Hotel L'Arbre Voyageur - LILLE",
+    "url": "https://www.booking.com/hotel/fr/l-arbre-voyageur-bw-premier-collection-lille.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 50.6397393,
+    "lon": 3.067428100000029,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Au Cœur De Lille",
+    "url": "https://www.booking.com/hotel/fr/au-coeur-de-lille.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 50.63551312325565,
+    "lon": 3.054392512268464,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Hilton Lille",
+    "url": "https://www.booking.com/hotel/fr/hotel-lille-euralille-hilton-affiliate.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 50.63993565332629,
+    "lon": 3.0756890773773193,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "B&B HOTEL Lille Centre Grand Palais",
+    "url": "https://www.booking.com/hotel/fr/b-b-lille-centre-grand-palais.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 50.62813749606027,
+    "lon": 3.0814236402511597,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Hotel Chagnot",
+    "url": "https://www.booking.com/hotel/fr/hotel-balladins-superior-lille-centre.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 50.63624596391233,
+    "lon": 3.069242388010025,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Lille City Hotel",
+    "url": "https://www.booking.com/hotel/fr/lille-city-hotel.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 50.63359887135759,
+    "lon": 3.0632811784744263,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Best Western Premier Why Hotel",
+    "url": "https://www.booking.com/hotel/fr/why.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 50.63430829317451,
+    "lon": 3.061618208885193,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Edgar Suites Lille - Faidherbe",
+    "url": "https://www.booking.com/hotel/fr/edgar-suites-lille-faidherbe.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 50.6358445,
+    "lon": 3.069856,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "DOMITYS - Le Piano",
+    "url": "https://www.booking.com/hotel/fr/domitys-le-piano.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 50.628553417366,
+    "lon": 3.095277342328,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "CENTRAL Hôtel Lille Centre",
+    "url": "https://www.booking.com/hotel/fr/central-lille-centre.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 50.6347745,
+    "lon": 3.0550666,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "B&B HOTEL Lille Lillenium Eurasanté",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-lille-lillenium-eurasante-lille.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 50.615353999999996,
+    "lon": 3.043125,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "Lille au calme - chambre d'hôte M et Me Collet",
+    "url": "https://www.booking.com/hotel/fr/chambre-d-39-hote-m-et-mme-collet.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 50.6437710542939,
+    "lon": 3.05425983693567,
+    "city_id": 8
+  },
+  {
+    "ville": "Lille",
+    "nom": "HOTEL AMBASSADEUR",
+    "url": "https://www.booking.com/hotel/fr/ambassadeur-lille.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 50.63544,
+    "lon": 3.070401,
+    "city_id": 8
+  }
+]

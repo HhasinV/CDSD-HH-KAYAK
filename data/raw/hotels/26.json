@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Résidence Odalys Le Mas des Flamants",
+    "url": "https://www.booking.com/hotel/fr/residence-le-mas-des-flamants.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.57379435310839,
+    "lon": 4.180621862215048,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Résidence Odalys Fleur de Sel",
+    "url": "https://www.booking.com/hotel/fr/residence-odalys-fleur-de-sel.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.574094,
+    "lon": 4.179246,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Artemia Aigues-Mortes - Hôtel avec piscine - Bornes électriques - Parking privé - Local vélo-moto",
+    "url": "https://www.booking.com/hotel/fr/le-royal-hotel-aigues-mortes.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.57639588787367,
+    "lon": 4.197818040847778,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "le dit vin secret",
+    "url": "https://www.booking.com/hotel/fr/le-dit-vin-secret.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.566769,
+    "lon": 4.189113,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Hôtel les jardins du canal - piscine chauffée - solaire eco responsable - parking - garage - bornes électriques - accueil vélos - kids friendly",
+    "url": "https://www.booking.com/hotel/fr/canal-aigues-mortes.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.572987520084624,
+    "lon": 4.194824695587158,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "chez sandrou",
+    "url": "https://www.booking.com/hotel/fr/chez-sandrou.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 43.5645341,
+    "lon": 4.1922299,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Hotel L'Escale",
+    "url": "https://www.booking.com/hotel/fr/l-39-escale-aigues-mortes.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.56879591496389,
+    "lon": 4.1880866853236975,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "La Villa Mazarin",
+    "url": "https://www.booking.com/hotel/fr/la-villa-mazarin.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.56498661964503,
+    "lon": 4.191751956841472,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Maison Aigues-Mortes 8 couchages",
+    "url": "https://www.booking.com/hotel/fr/maison-aigues-mortes-8-couchages.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.5720711,
+    "lon": 4.1935493,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Villa à deux pas de la cité médiévale dans une résidence très calme",
+    "url": "https://www.booking.com/hotel/fr/villa-a-deux-pas-de-la-cite-medievale-dans-une-residence-tres-calme.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.569799522692,
+    "lon": 4.186523869312,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Aigues-Mortes villa prés des remparts",
+    "url": "https://www.booking.com/hotel/fr/aigues-mortes-villa-pres-des-remparts.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.571764,
+    "lon": 4.18672709999998,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Appartement intra-muros",
+    "url": "https://www.booking.com/hotel/fr/appartement-intra-muros-aigues-mortes.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 43.5675632,
+    "lon": 4.1913895,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Hôtel Le Médiéval - Parking inclus & accueil vélo",
+    "url": "https://www.booking.com/hotel/fr/le-medieval.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.57186625316511,
+    "lon": 4.19366168974193,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Le Cosy des Remparts ! Charmant appartement intra-muros",
+    "url": "https://www.booking.com/hotel/fr/le-cosy-des-remparts-aigues-mortes.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.5655229,
+    "lon": 4.1905592,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Appartement cosy Aigues-Mortes centre 4 pers",
+    "url": "https://www.booking.com/hotel/fr/appartement-cosy-aigues-mortes-centre-4-pers.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 43.5675293,
+    "lon": 4.1913776,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Charmante maison de pêcheur",
+    "url": "https://www.booking.com/hotel/fr/charmante-maison-de-pecheur-aigues-mortes.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.5748541,
+    "lon": 4.1890169,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Les remparts Aigues-Mortes appartement et parking",
+    "url": "https://www.booking.com/hotel/fr/les-remparts-aigues-mortes-aigues-mortes.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.5667223,
+    "lon": 4.19055,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Hotel Saint Louis - Au Coeur des Remparts",
+    "url": "https://www.booking.com/hotel/fr/saint-louis-aigues-mortes.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.5672196715711,
+    "lon": 4.189343601465225,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Maison dans les remparts d'Aigues-Mortes",
+    "url": "https://www.booking.com/hotel/fr/maison-dans-les-remparts-d-aigues-mortes.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.5655144,
+    "lon": 4.1943101,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "L Ecrin de Gambetta - Maison cosy intra-muros avec parking inclus",
+    "url": "https://www.booking.com/hotel/fr/l-ecrin-de-gambetta-maison-cosy-avec-patio-4-a-6-personnes.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 43.565882757162456,
+    "lon": 4.192340829538357,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Les Flo location",
+    "url": "https://www.booking.com/hotel/fr/les-flo-location.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.573982420304,
+    "lon": 4.195183373197,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Marina LTI",
+    "url": "https://www.booking.com/hotel/fr/marina-aigues-mortes2.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 43.5736029,
+    "lon": 4.1877654,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Cœur de Cité AC clim parking",
+    "url": "https://www.booking.com/hotel/fr/coeur-de-cite.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.5670829,
+    "lon": 4.190409,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "villa camargue",
+    "url": "https://www.booking.com/hotel/fr/villa-camargue-aigues-mortes.fr.html",
+    "note": 10.0,
+    "prix": null,
+    "lat": 43.575161,
+    "lon": 4.1834248,
+    "city_id": 26
+  },
+  {
+    "ville": "Aigues Mortes",
+    "nom": "Hôtel La Maison des Croisades - Au pied des Remparts",
+    "url": "https://www.booking.com/hotel/fr/des-croisades.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.5689974,
+    "lon": 4.18829819999996,
+    "city_id": 26
+  }
+]

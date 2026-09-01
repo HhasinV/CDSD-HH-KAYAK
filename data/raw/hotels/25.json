@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Nimes",
+    "nom": "hotelF1 Nîmes Ouest",
+    "url": "https://www.booking.com/hotel/fr/hotelf1-nimes-ouest.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 43.815334,
+    "lon": 4.34405200000003,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "ibis budget Nimes Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-nimes-centre-gare.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.832055902146784,
+    "lon": 4.3673644959926605,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Appart'hôtel Odalys City - Nîmes Arènes - Palais des Congrès",
+    "url": "https://www.booking.com/hotel/fr/odalys-city-nimes-arenes.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.834061872209,
+    "lon": 4.358990652779,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "ibis Nîmes Ouest - A9",
+    "url": "https://www.booking.com/hotel/fr/ibis-na-r-mes-ouest.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.81389058589602,
+    "lon": 4.34434175491333,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Appartement mezzanine proche des Arènes",
+    "url": "https://www.booking.com/hotel/fr/appartement-mezzanine-proche-des-arenes.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.8325599,
+    "lon": 4.3586406,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Campanile PRIME - Nîmes Centre",
+    "url": "https://www.booking.com/hotel/fr/campanile-nimes-centre-mas-carbonnel.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.82273112028273,
+    "lon": 4.364125728607178,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Comfort Aparthotel Nimes Centre",
+    "url": "https://www.booking.com/hotel/fr/adagio-access-nimes.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.83249328044521,
+    "lon": 4.367856681346893,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "B&B HOTEL Nîmes Centre Arènes",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-nimes-centre-ville.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.8281614,
+    "lon": 4.354790200000025,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Novotel Atria Nimes Centre",
+    "url": "https://www.booking.com/hotel/fr/atria-nimes-centre.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.8354206497776,
+    "lon": 4.363404214382172,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Hôtel Concorde - Centre ville de Nimes",
+    "url": "https://www.booking.com/hotel/fr/concorde-nimes.fr.html",
+    "note": 6.6,
+    "prix": null,
+    "lat": 43.836128154772155,
+    "lon": 4.361269945351637,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "B&B HOTEL Nîmes Ville Active 3 étoiles",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-nimes-villes-active.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.8157834,
+    "lon": 4.346312699999999,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Appart'City Collection Nîmes Arènes",
+    "url": "https://www.booking.com/hotel/fr/appart-39-city-nimes.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.8338735348897,
+    "lon": 4.361433959524561,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Studio du Parc Arena avec parking",
+    "url": "https://www.booking.com/hotel/fr/studio-du-parc-arena-avec-parking.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.8250186,
+    "lon": 4.3621483,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Logis Hotel NIMOTEL",
+    "url": "https://www.booking.com/hotel/fr/nimotel.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.815576349205195,
+    "lon": 4.346603527665138,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "SQUARE HOTEL",
+    "url": "https://www.booking.com/hotel/fr/square-nimes.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.837032,
+    "lon": 4.363037,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Rougetomette",
+    "url": "https://www.booking.com/hotel/fr/rougetomette-nimes123.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 43.830036914687,
+    "lon": 4.366112688615,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Studio Nîmes Centre",
+    "url": "https://www.booking.com/hotel/fr/studio-boucarie.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.839762796252266,
+    "lon": 4.3569419908074,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Brit Hotel Confort Nîmes Ouest - A9 sortie 25",
+    "url": "https://www.booking.com/hotel/fr/kyriad-na-r-mes-ouest.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.81470734512981,
+    "lon": 4.344832599163055,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Royal Hôtel",
+    "url": "https://www.booking.com/hotel/fr/royal.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.83881509620307,
+    "lon": 4.3548184633255005,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "HÔTEL C SUITES chambres spacieuses",
+    "url": "https://www.booking.com/hotel/fr/c-suites.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.815377,
+    "lon": 4.345905,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Maison Albar Hotels L’Imperator",
+    "url": "https://www.booking.com/hotel/fr/imperator-nimes.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.83866612768399,
+    "lon": 4.352767914533615,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Chambres d'hôtes - Nîmes - Villa des roses",
+    "url": "https://www.booking.com/hotel/fr/chambre-d-hotes-serena.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 43.8534014127155,
+    "lon": 4.37149925548785,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Studio ensoleillé avec balcon",
+    "url": "https://www.booking.com/hotel/fr/studio-meuble-ensoleille-sfr-box.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 43.853429614664726,
+    "lon": 4.397474462257711,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Grand studio au coeur de Nîmes à côté des Arènes",
+    "url": "https://www.booking.com/hotel/fr/grand-studio-au-coeur-de-nimes.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 43.8321176,
+    "lon": 4.3565531,
+    "city_id": 25
+  },
+  {
+    "ville": "Nimes",
+    "nom": "Appart Victor Hugo",
+    "url": "https://www.booking.com/hotel/fr/appart-victor-hugo-nimes.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 43.83711192896845,
+    "lon": 4.35659214720403,
+    "city_id": 25
+  }
+]

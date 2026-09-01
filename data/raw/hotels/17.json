@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Lyon",
+    "nom": "Novotel Lyon Gerland",
+    "url": "https://www.booking.com/hotel/fr/novotel-lyon-gerland.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 45.733195,
+    "lon": 4.823688,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Mama Shelter Lyon",
+    "url": "https://www.booking.com/hotel/fr/mama-shelter-lyon.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 45.74695278493895,
+    "lon": 4.845267757773399,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Campanile PRIME Lyon Centre Gare Part-Dieu",
+    "url": "https://www.booking.com/hotel/fr/campanile-lyon-centre-forum-part-dieu.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 45.76027411252216,
+    "lon": 4.863327741622925,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "MEININGER Hotel Lyon Centre Berthelot",
+    "url": "https://www.booking.com/hotel/fr/meininger-lyon-centre-berthelot.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 45.746083,
+    "lon": 4.837187,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Residence Montempo Appart'Hôtel Lyon Cite Internationale",
+    "url": "https://www.booking.com/hotel/fr/residence-hoteliere-temporim-cite-internationale.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 45.78501661437687,
+    "lon": 4.856415688991547,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Novotel Lyon Centre-Confluence Bord de Saone",
+    "url": "https://www.booking.com/hotel/fr/novotel-lyon-confluence.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 45.741556723764276,
+    "lon": 4.815292060375214,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Pop Cordelier - Appartement idéal au coeur de Lyon",
+    "url": "https://www.booking.com/hotel/fr/pop-cordelier-appartement-ideal-au-coeur-de-lyon.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 45.7630284,
+    "lon": 4.8353662,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Lyon Cosy Stay",
+    "url": "https://www.booking.com/hotel/fr/lyon-cosy-stay.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 45.7684530912702,
+    "lon": 4.82730567455292,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Hôtel Lyon Métropole & Spa",
+    "url": "https://www.booking.com/hotel/fr/lyon-metropole.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 45.78871959899989,
+    "lon": 4.819841086864471,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Élégant loft centre ville calme avec mezzanine 2 à 4 personnes",
+    "url": "https://www.booking.com/hotel/fr/elegant-loft-centre-ville-calme-avec-mezzanine.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 45.7496559264153,
+    "lon": 4.85252645750468,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Ainay/centre Lyon/un cocon !",
+    "url": "https://www.booking.com/hotel/fr/ainay-centre-lyon-un-cocon.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 45.7532192,
+    "lon": 4.8298477,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "HO36 Hostel Lyon",
+    "url": "https://www.booking.com/hotel/fr/ho36-hostels-lyon.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 45.75285600552734,
+    "lon": 4.842058611045104,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Hôtel des Facultés",
+    "url": "https://www.booking.com/hotel/fr/des-facultes.fr.html",
+    "note": 6.6,
+    "prix": null,
+    "lat": 45.74879640070259,
+    "lon": 4.839909374713898,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Hôtel du Helder",
+    "url": "https://www.booking.com/hotel/fr/hotelduhelder.fr.html",
+    "note": 6.5,
+    "prix": null,
+    "lat": 45.75211148041986,
+    "lon": 4.840485379099846,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "SLO Hostel Lyon les Pentes",
+    "url": "https://www.booking.com/hotel/fr/away-hostel.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 45.77075634777688,
+    "lon": 4.836750741069864,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Première Classe Lyon Centre Gare Part Dieu",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-lyon-centre-gare-part-dieu.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 45.756034577239554,
+    "lon": 4.859098568558693,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Hotel de Normandie",
+    "url": "https://www.booking.com/hotel/fr/de-normandie.fr.html",
+    "note": 7.1,
+    "prix": null,
+    "lat": 45.74834954003604,
+    "lon": 4.8272620886564255,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Mercure Lyon Centre Beaux-Arts",
+    "url": "https://www.booking.com/hotel/fr/lyon-beaux-arts.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 45.76095151007407,
+    "lon": 4.834139943122864,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Hotel Saint Vincent",
+    "url": "https://www.booking.com/hotel/fr/saint-vincent-lyon.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 45.76854481702091,
+    "lon": 4.827895425260067,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Studio Lyon 1er",
+    "url": "https://www.booking.com/hotel/fr/studio-lyon-1er.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 45.7720002,
+    "lon": 4.835036,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "ibis Lyon Part Dieu Les Halles",
+    "url": "https://www.booking.com/hotel/fr/ibis-lyon-part-dieu-les-halles.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 45.7619241163352,
+    "lon": 4.851316809654236,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Appart'City Classic Lyon Part Dieu Villette",
+    "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-lyon-partdieu.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 45.75648108047784,
+    "lon": 4.8631346225738525,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Asirem - Pied de métro dans le 7ème",
+    "url": "https://www.booking.com/hotel/fr/manel-pied-de-metro-dans-le-7eme.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 45.7508111,
+    "lon": 4.853062,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "ibis Lyon Gare Part Dieu",
+    "url": "https://www.booking.com/hotel/fr/ibis-lyon-gare-part-dieu.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.757519527265295,
+    "lon": 4.8581913113594055,
+    "city_id": 17
+  },
+  {
+    "ville": "Lyon",
+    "nom": "Ibis Styles Lyon Centre - Gare Part Dieu",
+    "url": "https://www.booking.com/hotel/fr/all-seasons-lyon-part-dieu.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 45.75952185477447,
+    "lon": 4.861503839492798,
+    "city_id": 17
+  }
+]

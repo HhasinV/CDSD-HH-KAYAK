@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Besancon",
+    "nom": "ibis Styles Besançon",
+    "url": "https://www.booking.com/hotel/fr/besancon.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 47.2542534551454,
+    "lon": 6.021639704704285,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Premiere Classe Besancon Ecole Valentin",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-besancon-ecole-valentin.fr.html",
+    "note": 6.9,
+    "prix": null,
+    "lat": 47.27044103591704,
+    "lon": 5.9982722997665405,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Comfort Aparthotel Besancon La City",
+    "url": "https://www.booking.com/hotel/fr/citea-besancon.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 47.235682520054645,
+    "lon": 6.01401150226593,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "ibis budget Besançon Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-besanasson-centre-gare.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 47.246846407466016,
+    "lon": 6.023120284080505,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "B&B HOTEL Besançon Valentin",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-besancon-valentin.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 47.2801612,
+    "lon": 5.9877459,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "ibis budget Besançon Ecole Valentin",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget.fr.html",
+    "note": 6.2,
+    "prix": null,
+    "lat": 47.27788606134679,
+    "lon": 5.994613766670227,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Domitys L'Art du Temps",
+    "url": "https://www.booking.com/hotel/fr/domitys-l-39-art-du-temps.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 47.2512189,
+    "lon": 6.01302829999997,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Hôtel de Paris",
+    "url": "https://www.booking.com/hotel/fr/de-paris-besanasson.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 47.23856536577556,
+    "lon": 6.025325059890747,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Cosy Diem Vauban",
+    "url": "https://www.booking.com/hotel/fr/cosy-diem-vauban.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 47.24097,
+    "lon": 6.01049,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Les Ronchaux Studio Hyper Centre WiFi",
+    "url": "https://www.booking.com/hotel/fr/les-ronchaux-studio-hyper-centre-wifi.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 47.2348051,
+    "lon": 6.0281744,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Temis hôtel Besançon",
+    "url": "https://www.booking.com/hotel/fr/all-suites-besancon.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 47.25435722578138,
+    "lon": 5.995480120182037,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Hôtel Restaurant Spa Le Sauvage",
+    "url": "https://www.booking.com/hotel/fr/ho-tel-le-sauvage-besanasson.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 47.23171766809705,
+    "lon": 6.027591526508331,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Best Western Citadelle",
+    "url": "https://www.booking.com/hotel/fr/bestwesterncitadelle.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 47.23154100035795,
+    "lon": 6.026580333709717,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "B&B HOTEL Besançon Chateaufarine",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-besancon.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 47.220180107913635,
+    "lon": 5.955331353967267,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "hotelF1 Besancon Ouest Micropolis",
+    "url": "https://www.booking.com/hotel/fr/hotelf1-besancon-ouest-micropolis.fr.html",
+    "note": 4.4,
+    "prix": null,
+    "lat": 47.21853701449286,
+    "lon": 5.982121987766277,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Hôtel AKENA Besançon",
+    "url": "https://www.booking.com/hotel/fr/akena-besancon.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 47.23547525170847,
+    "lon": 5.9000853988113455,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Le Fabre",
+    "url": "https://www.booking.com/hotel/fr/le-fabre.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 47.2391822,
+    "lon": 6.0391859,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "ibis Besançon Centre la City",
+    "url": "https://www.booking.com/hotel/fr/ibis-besancon-la-city.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 47.23549140373459,
+    "lon": 6.0149883853889605,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Chambre d'Hôtes La Villa Molina",
+    "url": "https://www.booking.com/hotel/fr/la-villa-molina.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 47.25044475006427,
+    "lon": 6.02088063955307,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Campanile NATURE - Besançon Ouest Chateaufarine",
+    "url": "https://www.booking.com/hotel/fr/campanile-besancon-ouest-chateaufarine.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 47.21604476681921,
+    "lon": 5.943496227264404,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Séjour moderne à Besançon",
+    "url": "https://www.booking.com/hotel/fr/proudhon-6.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 47.2398619,
+    "lon": 6.0261476,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "NOUVEAU - RENOVE - LE PASSAGE - Home-One",
+    "url": "https://www.booking.com/hotel/fr/le-passage-besancon.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 47.2463571,
+    "lon": 6.0260183,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Le Montjoux - proche gare",
+    "url": "https://www.booking.com/hotel/fr/le-p-tit-montjoux-appart-avec-jardin-proche-gare.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 47.2473938,
+    "lon": 6.0150062,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Appartement lumineux - 6 pers - 3 chambres - Parking gratuit - Tout équipé",
+    "url": "https://www.booking.com/hotel/fr/appartement-lumineux-72m2.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 47.2518186,
+    "lon": 6.007446,
+    "city_id": 13
+  },
+  {
+    "ville": "Besancon",
+    "nom": "Ultra-Central Luxury Duplex",
+    "url": "https://www.booking.com/hotel/fr/ultra-central-luxury-duplex.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 47.2370322,
+    "lon": 6.0248761,
+    "city_id": 13
+  }
+]

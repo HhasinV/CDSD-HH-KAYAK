@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Toulouse",
+    "nom": "La Petite Auberge de Saint-Sernin",
+    "url": "https://www.booking.com/hotel/fr/la-petite-auberge-de-compostelle.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.609017746904456,
+    "lon": 1.438295692205429,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Comme A La Maison Chez Domi - Un Des Quartiers Résidentiels Chics de Toulouse",
+    "url": "https://www.booking.com/hotel/fr/comme-a-la-maison-chez-domi-au-bois-de-limayrac.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.58567478986834,
+    "lon": 1.4888556276000875,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "\"Ô la Vache !\" Terrasse - Parking - Wifi",
+    "url": "https://www.booking.com/hotel/fr/o-la-vache-terrasse-parking-wifi.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.6321338,
+    "lon": 1.4363742,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Superbe appartement d'architecte place du Capitole",
+    "url": "https://www.booking.com/hotel/fr/superbe-appartement-d-architecte-place-du-capitole.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 43.6036779,
+    "lon": 1.4422979,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "ibis budget Toulouse Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-toulouse-centre.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.61560861785854,
+    "lon": 1.444774568080902,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Eklo Hotels Toulouse Cartoucherie Zénith",
+    "url": "https://www.booking.com/hotel/fr/eklo-toulouse.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.603436,
+    "lon": 1.407623,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "The Social Hub Toulouse",
+    "url": "https://www.booking.com/hotel/fr/the-social-hub-toulouse.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.610053,
+    "lon": 1.43037,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Premiere Classe Toulouse Sesquières",
+    "url": "https://www.booking.com/hotel/fr/premiereclassetoulouse.fr.html",
+    "note": 6.3,
+    "prix": null,
+    "lat": 43.646538851045705,
+    "lon": 1.4191292971372604,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Heart of Toulouse - L'appartement de l'Atelier",
+    "url": "https://www.booking.com/hotel/fr/heart-of-toulouse-l-appartement-de-l-atelier.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.6010014,
+    "lon": 1.4486674,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Hostel20 Toulouse Wilson",
+    "url": "https://www.booking.com/hotel/fr/royal-wilson.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 43.604466774352254,
+    "lon": 1.4492541924118996,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Hôtel Riquet",
+    "url": "https://www.booking.com/hotel/fr/riquet.fr.html",
+    "note": 7.3,
+    "prix": null,
+    "lat": 43.6081462280857,
+    "lon": 1.4539309591054916,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Mercure Toulouse Centre Saint-Georges",
+    "url": "https://www.booking.com/hotel/fr/mercure-toulouse-saint-georges.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.60332861323894,
+    "lon": 1.448235958814621,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Residhome Toulouse Occitania",
+    "url": "https://www.booking.com/hotel/fr/residhome-toulouse-occitania.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.59380489582385,
+    "lon": 1.4103638380765915,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "belle chambre 5 calme élégant proche de métro",
+    "url": "https://www.booking.com/hotel/fr/belle-chambre-5-calme-elegant-proche-de-metro.fr.html",
+    "note": 10.0,
+    "prix": null,
+    "lat": 43.5826014,
+    "lon": 1.414145,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Hotel Mercure Toulouse Centre Compans",
+    "url": "https://www.booking.com/hotel/fr/toulouse-atria-compans-caffarelli.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.61064762313755,
+    "lon": 1.4349442720413208,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Alfred Hotels Toulouse Centre Wilson - Hôtel Rénové",
+    "url": "https://www.booking.com/hotel/fr/alfred-hotels-toulouse-centre-wilson.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.6057617,
+    "lon": 1.4503057,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Hôtel le Pastel",
+    "url": "https://www.booking.com/hotel/fr/le-pastel.fr.html",
+    "note": 6.8,
+    "prix": null,
+    "lat": 43.60973933328968,
+    "lon": 1.4491083085983973,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Le Coquet Studio Arenes Toulouse",
+    "url": "https://www.booking.com/hotel/fr/le-coquet-studio-arenes-toulouse.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.5895339,
+    "lon": 1.4200653,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Résidence le Pastel François Verdier",
+    "url": "https://www.booking.com/hotel/fr/residence-le-pastel.fr.html",
+    "note": 5.7,
+    "prix": null,
+    "lat": 43.60330197218584,
+    "lon": 1.4561291091990824,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Le Faubourg Bonnefoy AC Studio Toulouse",
+    "url": "https://www.booking.com/hotel/fr/le-faubourg-bonnefoy-ac-studio-toulouse.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.62066160000001,
+    "lon": 1.4530411,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Dépendance privée avec entrée autonome",
+    "url": "https://www.booking.com/hotel/fr/dependance-privee-avec-entree-autonomie.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.5547089,
+    "lon": 1.3929569,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Citiz Hotel",
+    "url": "https://www.booking.com/hotel/fr/citiz-toulouse.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 43.60566997757491,
+    "lon": 1.4491117000579834,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Hypercentre Toulouse 10 joli studio climatisé",
+    "url": "https://www.booking.com/hotel/fr/hypercentre-toulouse-9-joli-appartement-equipe-et-meuble.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.6027579,
+    "lon": 1.4434825,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "Mama Shelter Toulouse",
+    "url": "https://www.booking.com/hotel/fr/mama-shelter-toulouse.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.605414,
+    "lon": 1.449934,
+    "city_id": 31
+  },
+  {
+    "ville": "Toulouse",
+    "nom": "ibis Toulouse Centre",
+    "url": "https://www.booking.com/hotel/fr/ibis-toulouse-centre.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.6104025,
+    "lon": 1.4460134999999354,
+    "city_id": 31
+  }
+]

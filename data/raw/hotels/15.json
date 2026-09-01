@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Annecy",
+    "nom": "appartement moderne et spacieux, parking privé, climatisation, proche de la vieille ville et du Lac",
+    "url": "https://www.booking.com/hotel/fr/grand-appartement-moderne-et-spacieux-parking-prive-climatisation-proche-de-la-v.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 45.900196,
+    "lon": 6.1164212,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Hôtel des Alpes",
+    "url": "https://www.booking.com/hotel/fr/hotel-des-alpes.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 45.90163038296463,
+    "lon": 6.122925281524658,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Icône Hôtel - Annecy",
+    "url": "https://www.booking.com/hotel/fr/ica-ne.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 45.89714928882797,
+    "lon": 6.122658848653373,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Premiere Classe Annecy Cran-Gevrier RÉNOVÉ EN 2025",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-annecy-cran-gevrier.fr.html",
+    "note": 7.1,
+    "prix": null,
+    "lat": 45.8954308,
+    "lon": 6.109846199999993,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "ibis Annecy Centre Vieille Ville",
+    "url": "https://www.booking.com/hotel/fr/ibis-annecy-centre-vieille-ville.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 45.898238796612006,
+    "lon": 6.12250953912735,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "B&B HOTEL Annecy Cran-Gevrier",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-annecy-cran-gevrier.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.892319,
+    "lon": 6.0895437,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Atipik Hôtel",
+    "url": "https://www.booking.com/hotel/fr/hotelalexandra.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 45.90122721128739,
+    "lon": 6.125073730945587,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "La terrasse du Thiou",
+    "url": "https://www.booking.com/hotel/fr/la-terrasse-du-thiou.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 45.89932754626,
+    "lon": 6.112278430164,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Séjours & Affaires Annecy Le Pont Neuf",
+    "url": "https://www.booking.com/hotel/fr/sejours-affaires-annecy-le-pont-neuf.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 45.89719346681384,
+    "lon": 6.110809743404388,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "T1 Confortable Proche Centre avec Parking Privé - FR-1-432-44",
+    "url": "https://www.booking.com/hotel/fr/apartment-hirondelles.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 45.9039859,
+    "lon": 6.115820408,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Cozy Studio 10 min walk Centre and Train Station!",
+    "url": "https://www.booking.com/hotel/fr/cozy-studio-10-min-walk-centre-and-train-station.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 45.8982414,
+    "lon": 6.1129877,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Appartement cosy, espace nuit & parking privé Annecy proche centre",
+    "url": "https://www.booking.com/hotel/fr/le41annecy-t2-40m2-old-town-private-parking.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 45.8941449,
+    "lon": 6.1187174,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Appartement T3 Baignoire balnéo, terrasse, garage",
+    "url": "https://www.booking.com/hotel/fr/appartement-t3-baignoire-balneo-terrasse-garage.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 45.8970208,
+    "lon": 6.1129559,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Auberge de Jeunesse HI Annecy",
+    "url": "https://www.booking.com/hotel/fr/auberge-de-jeunesse-hi-annecy.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 45.8914219,
+    "lon": 6.133705,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Le Pélican",
+    "url": "https://www.booking.com/hotel/fr/le-pelican-annecy1.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 45.897015,
+    "lon": 6.131543,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Le Rêve de l'Ours",
+    "url": "https://www.booking.com/hotel/fr/le-reve-de-l-ours.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 45.897902886401,
+    "lon": 6.1234150970089996,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Centre Jean XXIII",
+    "url": "https://www.booking.com/hotel/fr/centre-jean-xxiii.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 45.9183227,
+    "lon": 6.15250679999997,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Le \"Wood\"",
+    "url": "https://www.booking.com/hotel/fr/le-wood.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 45.9044895514419,
+    "lon": 6.13014981150627,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Ecrin de verdure Hyper centre avec jardin commun",
+    "url": "https://www.booking.com/hotel/fr/ecrin-de-verdure-hyper-centre-avec-jardin-commun.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 45.9007044,
+    "lon": 6.1200244,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Chambre dans un appartement Annecy Gare-Centre",
+    "url": "https://www.booking.com/hotel/fr/chambre-annecy-gare-centre.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 45.899781,
+    "lon": 6.116409,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Moxy Annecy",
+    "url": "https://www.booking.com/hotel/fr/moxy-annecy.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 45.90025357689497,
+    "lon": 6.115946039173132,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Ace Hotel Annecy",
+    "url": "https://www.booking.com/hotel/fr/ace-annecy.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 45.8800899491911,
+    "lon": 6.09713047742844,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Hôtel du Palais de l'Isle",
+    "url": "https://www.booking.com/hotel/fr/du-palais-de-l-isle-annecy.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.89819586381138,
+    "lon": 6.127482354640961,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "LA MANUFACTURE - Bel Appartement Contemporain en Coeur de ville",
+    "url": "https://www.booking.com/hotel/fr/la-manufacture-bel-appartement-contemporain-en-coeur-de-ville.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 45.8987173884192,
+    "lon": 6.123747875849155,
+    "city_id": 15
+  },
+  {
+    "ville": "Annecy",
+    "nom": "Novotel Annecy Centre",
+    "url": "https://www.booking.com/hotel/fr/annecy-centre-atria.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 45.9030377278167,
+    "lon": 6.122657060623169,
+    "city_id": 15
+  }
+]

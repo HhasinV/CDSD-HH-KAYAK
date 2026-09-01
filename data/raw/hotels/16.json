@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Grenoble",
+    "nom": "Hôtel Terminus",
+    "url": "https://www.booking.com/hotel/fr/hotelterminus.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 45.1910782561633,
+    "lon": 5.715598315000534,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "greet Grenoble Centre Gare Accor Hotel",
+    "url": "https://www.booking.com/hotel/fr/ha-tel-des-alpes.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 45.190446523564894,
+    "lon": 5.716857947409153,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "B&B HOTEL Grenoble Centre Alpexpo",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-grenoble-centre-alpexpo.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 45.158836673882,
+    "lon": 5.734435468912125,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "B&B HOTEL Grenoble Centre Verlaine",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-grenoble-centre-verlaine.fr.html",
+    "note": 7.1,
+    "prix": null,
+    "lat": 45.16191002349871,
+    "lon": 5.714982748031616,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Campanile Grenoble Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/campanile-grenoble-centre-gare.fr.html",
+    "note": 7.4,
+    "prix": null,
+    "lat": 45.19051920530674,
+    "lon": 5.716019421815872,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Kyriad Grenoble Centre",
+    "url": "https://www.booking.com/hotel/fr/qualityhotelgrenoble.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.16819994402455,
+    "lon": 5.711994767189026,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "The Babel Community Hôtel - Grenoble Bastille",
+    "url": "https://www.booking.com/hotel/fr/apt-paisible-en-centre-ville-parking-salle-de-sport-bar-en-rooftop.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 45.195810837764,
+    "lon": 5.7254467753939995,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Residhome Grenoble Caserne De Bonne",
+    "url": "https://www.booking.com/hotel/fr/residhome-prestige-grenoble-caserne-de-bonne.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 45.18346987318301,
+    "lon": 5.7243382930755615,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Novotel Grenoble Centre",
+    "url": "https://www.booking.com/hotel/fr/grenoble-centre.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.1906950021105,
+    "lon": 5.712595582008362,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "ibis Grenoble Centre Bastille",
+    "url": "https://www.booking.com/hotel/fr/ibis-grenoble-centre.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.19052518222968,
+    "lon": 5.726412275146458,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Lafayette. Garage. Clim. Centre",
+    "url": "https://www.booking.com/hotel/fr/lafayette-garage-clim-centre.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 45.1909299,
+    "lon": 5.72935,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "L'aube Climatisation Parking 2 chambres",
+    "url": "https://www.booking.com/hotel/fr/aube-climatisation-parking-2-chambres.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 45.1770583,
+    "lon": 5.7079652,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Le Grand Hôtel Grenoble, BW Premier Collection by Best Western",
+    "url": "https://www.booking.com/hotel/fr/le-grand-grenoble-centre.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 45.190815035100044,
+    "lon": 5.728548020124435,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "RockyPop Grenoble Hotel",
+    "url": "https://www.booking.com/hotel/fr/rockypop-grenoble.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 45.186911,
+    "lon": 5.731293,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Residhotel Grenette",
+    "url": "https://www.booking.com/hotel/fr/le-royal-grenoble.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.190563627131006,
+    "lon": 5.724484473466873,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Park Hotel Grenoble - Handwritten Collection",
+    "url": "https://www.booking.com/hotel/fr/park-grenoble.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 45.18410130511121,
+    "lon": 5.732948184013367,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Residhotel Le Central'Gare",
+    "url": "https://www.booking.com/hotel/fr/residhotel-le-central-gare.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 45.19085898412344,
+    "lon": 5.715724378824234,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Le nid des bergers - Championnet 3 rooms, garage, clim a-c",
+    "url": "https://www.booking.com/hotel/fr/le-nid-des-bergers-championnet-3-rooms-garage-clim-a-c.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 45.1860211,
+    "lon": 5.7219648,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Maison Barbillon Grenoble - Centre Gare",
+    "url": "https://www.booking.com/hotel/fr/maison-barbillon-grenoble.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 45.19079329686088,
+    "lon": 5.716696679592133,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Le Grenette, Terrasse, Garage, Dernier étage, Climatisation",
+    "url": "https://www.booking.com/hotel/fr/le-grenette-terrasse-garage-dernier-etage-climatisation.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 45.1912852,
+    "lon": 5.7272419,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Hôtel d’Angleterre Grenoble Hyper-Centre",
+    "url": "https://www.booking.com/hotel/fr/tiangleterre.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 45.18920402005693,
+    "lon": 5.725372284650803,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "joli 2 pieces en centre ville , gare à 50 mètres",
+    "url": "https://www.booking.com/hotel/fr/jolie-2-pieces-en-centre-ville-gare-a-50-metres.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 45.1901518,
+    "lon": 5.7163125,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Appartement 2 pieces 40 m2, dans hyper centre, avec piscine au rez de chaussee",
+    "url": "https://www.booking.com/hotel/fr/appart-2p-hyper-centre-avec-piscine.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 45.186454646826,
+    "lon": 5.721234855156,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "T3 Halles Sainte-Claires Centre",
+    "url": "https://www.booking.com/hotel/fr/t3-halles-sainte-claires-centre.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 45.191226963085,
+    "lon": 5.731413173325,
+    "city_id": 16
+  },
+  {
+    "ville": "Grenoble",
+    "nom": "Mercure Grenoble Centre Porte des Alpes",
+    "url": "https://www.booking.com/hotel/fr/grand-mercure-grenoble-president.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 45.17849379329981,
+    "lon": 5.720297545194626,
+    "city_id": 16
+  }
+]

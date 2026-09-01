@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "St Malo",
+    "nom": "Charme St Malo",
+    "url": "https://www.booking.com/hotel/fr/charme-st-malo.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 48.62194209708,
+    "lon": -1.9878064842110001,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "L'Islet - Joli studio à 2 pas de la mer",
+    "url": "https://www.booking.com/hotel/fr/islet-joli-studio-a-2-pas-de-la-mer-lancieux2.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 48.6099639,
+    "lon": -2.1503798,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Brise Marine",
+    "url": "https://www.booking.com/hotel/fr/brise-marine-le-vivier-sur-mer.fr.html",
+    "note": 9.9,
+    "prix": null,
+    "lat": 48.6044734,
+    "lon": -1.7831457,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Le Moulin du Mottay",
+    "url": "https://www.booking.com/hotel/fr/le-moulin-du-mottay.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 48.402567,
+    "lon": -2.007134,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "LE REFUGE DE LA BAIE",
+    "url": "https://www.booking.com/hotel/fr/le-refuge-de-la-baie.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 48.5839827,
+    "lon": -2.1473927,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Le cottage de Zoé",
+    "url": "https://www.booking.com/hotel/fr/le-cottage-de-zoe.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.6045888,
+    "lon": -1.7835969,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Vue mer pour une escale en baie du Mt-St-Michel",
+    "url": "https://www.booking.com/hotel/fr/vue-mer-pour-une-escale-en-baie-du-mt-st-michel.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.6068016,
+    "lon": -1.7032335,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "LE CLOS DAUPHINAIS Chez Laurette",
+    "url": "https://www.booking.com/hotel/fr/ravissante-suite-avec-parking-prive-quevert.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 48.453426350027,
+    "lon": -2.068548268158,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Apartment La Note Bleue by Interhome",
+    "url": "https://www.booking.com/hotel/fr/ferienwohnung-109.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 48.67998999,
+    "lon": -1.84362398,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Maison d'hôtes Kerléon",
+    "url": "https://www.booking.com/hotel/fr/maison-d-hotes-kerleon.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 48.638406,
+    "lon": -2.3230127,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Les Hirondelles",
+    "url": "https://www.booking.com/hotel/fr/les-hirondelles-baguer-pican1.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 48.5487235,
+    "lon": -1.6952859999999998,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Chambre d'hote Familiale de la maison Bleue",
+    "url": "https://www.booking.com/hotel/fr/chambre-d-hote-familiale-de-la-maison-bleue.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 48.45515489115169,
+    "lon": -2.036998404928201,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Chez Maria",
+    "url": "https://www.booking.com/hotel/fr/chez-maria-cherrueix.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.6073646,
+    "lon": -1.697567,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Saphyr",
+    "url": "https://www.booking.com/hotel/fr/saphyr-saint-cast-le-guildo.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 48.6364983,
+    "lon": -2.2555055,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Maison Matignon Bretagne",
+    "url": "https://www.booking.com/hotel/fr/maison-bretagne.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 48.59316809616648,
+    "lon": -2.294807846848257,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Au Jardin D'Eloïse",
+    "url": "https://www.booking.com/hotel/fr/au-jardin-d-39-eloise.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.55743184405423,
+    "lon": -2.0623587674590453,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Charmant appartement 2 pièces proche de la mer",
+    "url": "https://www.booking.com/hotel/fr/charmant-appartement-2-pieces-proche-de-la-mer.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.5212745819,
+    "lon": -2.230478133875,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "La Mere Champlain",
+    "url": "https://www.booking.com/hotel/fr/la-mere-champlain.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 48.67101970945212,
+    "lon": -1.85269296169281,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Petit Manoir Proche Dinan - Chambre d'hôtes",
+    "url": "https://www.booking.com/hotel/fr/chambre-d-hotes-proche-dinan-lanvallay.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 48.4472057,
+    "lon": -2.0249872,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Emeria Dinard Thalasso Spa",
+    "url": "https://www.booking.com/hotel/fr/thalassa-dinard.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.63903970854801,
+    "lon": -2.0744740962982178,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Les Ormes Domaine et Resort",
+    "url": "https://www.booking.com/hotel/fr/les-ormes-domaine-et-resort.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 48.490167691201385,
+    "lon": -1.7260229587554932,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "La Maison Les Mimosas",
+    "url": "https://www.booking.com/hotel/fr/la-maison-les-mimosas.fr.html",
+    "note": 10.0,
+    "prix": null,
+    "lat": 48.577821,
+    "lon": -2.012338,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "La Ménardière Serenitatis chambre d'hôtes petit déjeuner compris",
+    "url": "https://www.booking.com/hotel/fr/la-menardiere-serenitatis-chambre-d-hotes-petit-dejeuner-compris.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 48.4815797,
+    "lon": -2.1701991,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Premiere Classe Saint Malo CHAMBRES RENOVEES",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-saint-malo-st-jouan-des-guerets.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 48.6035560883316,
+    "lon": -1.97464227676392,
+    "city_id": 2
+  },
+  {
+    "ville": "St Malo",
+    "nom": "Kyriad Dol-de-Bretagne",
+    "url": "https://www.booking.com/hotel/fr/kyriad-dol-de-bretagn.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 48.55070556650788,
+    "lon": -1.7197036743164062,
+    "city_id": 2
+  }
+]

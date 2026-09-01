@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Biarritz",
+    "nom": "Nemea Appart Hotel Les Hauts de Milady Biarritz",
+    "url": "https://www.booking.com/hotel/fr/nemea-appart-les-hauts-de-milady.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 43.4702245,
+    "lon": -1.5678466,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "ibis Styles Biarritz Plage",
+    "url": "https://www.booking.com/hotel/fr/hotellebiarritz.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.46889876055893,
+    "lon": -1.5685611963272095,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Résidence Vacances Bleues Le Grand Large",
+    "url": "https://www.booking.com/hotel/fr/le-grand-large-biarritz.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.48065123446311,
+    "lon": -1.5653452277183533,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Premiere Classe Biarritz",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-biarritz.fr.html",
+    "note": 5.8,
+    "prix": null,
+    "lat": 43.466329183905685,
+    "lon": -1.5405750274658203,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Studio Biarritz 2 personnes face à l'océan proche plages Port",
+    "url": "https://www.booking.com/hotel/fr/studio-biarritz-2-personnes-face-a-l-ocean-proche-plages-port.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 43.4817608,
+    "lon": -1.5682694,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Campanile NATURE - Biarritz",
+    "url": "https://www.booking.com/hotel/fr/campanile-biarritz.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 43.46638758458815,
+    "lon": -1.5400439500808716,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Résidence Pierre & Vacances Premium Haguna",
+    "url": "https://www.booking.com/hotel/fr/residence-pierre-vacances-haguna.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.4853453565997,
+    "lon": -1.5525805950164795,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Appartement La Coline Bleue",
+    "url": "https://www.booking.com/hotel/fr/appartement-la-coline-bleue.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.4635897,
+    "lon": -1.5665734,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Maison Resaurie - Hôtel",
+    "url": "https://www.booking.com/hotel/fr/maison-resaurie.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 43.4902102,
+    "lon": -1.5520498,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "SURF HOSTEL BIARRITZ",
+    "url": "https://www.booking.com/hotel/fr/surf-hostel-biarritz.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.4729141,
+    "lon": -1.5475989,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Studio lumineux & calme à Biarritz - Parking privé gratuit",
+    "url": "https://www.booking.com/hotel/fr/studio-cosy-quartier-vivant.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.4807779,
+    "lon": -1.5354798,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "L'océan à perte de vue, la grande plage à vos pieds",
+    "url": "https://www.booking.com/hotel/fr/l-39-ocean-a-perte-de-vue-la-grande-plage-a-vos-pieds.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.4845717,
+    "lon": -1.5575611999999999,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "COAST - Utopy Hostel",
+    "url": "https://www.booking.com/hotel/fr/utopy-hostel-coast.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.47361572026332,
+    "lon": -1.5656458895492653,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Résidence Mer & Golf Eugénie",
+    "url": "https://www.booking.com/hotel/fr/residence-mer-et-golf-eugenie.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.46963652033791,
+    "lon": -1.5694905817508698,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Hôtel Barnea",
+    "url": "https://www.booking.com/hotel/fr/hotelargieder.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.48072811046226,
+    "lon": -1.5642817318439484,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Appartement charmant dans le centre de Biarritz Dan 3ème étage",
+    "url": "https://www.booking.com/hotel/fr/appartement-charmant-dans-le-centre-de-biarritz.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.4835903,
+    "lon": -1.5561522,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Luna - Studio vue imprenable sur la mer",
+    "url": "https://www.booking.com/hotel/fr/amazing-cosy-studio-with-ocean-view-amp-pool.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.4847155,
+    "lon": -1.5573339,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Studio Victoria Surf",
+    "url": "https://www.booking.com/hotel/fr/studio-victoria-surf.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.4847518,
+    "lon": -1.5572594,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Mercure Président Biarritz Plage",
+    "url": "https://www.booking.com/hotel/fr/mercure-le-president-biarritz-centre.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.48186469609885,
+    "lon": -1.559758186340332,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Le Talaia Hôtel & Spa Biarritz - MGallery Collection",
+    "url": "https://www.booking.com/hotel/fr/mgallery-hotel-biarritz.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.47827192258378,
+    "lon": -1.5646907687187195,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Biarritz appartement 2 adultes, 2 enfants à proximité immédiate des plages et des commerces",
+    "url": "https://www.booking.com/hotel/fr/biarritz-appartement-4-personnes-a-proximite-immediate-des-plages-et-des-commerc.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 43.470851,
+    "lon": -1.5687712999999999,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Résidence Victoria Surf",
+    "url": "https://www.booking.com/hotel/fr/residence-victoria-surf-victoria-management.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 43.48474401555174,
+    "lon": -1.557089388370514,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "BIARRITZ Victoria Surf",
+    "url": "https://www.booking.com/hotel/fr/biarritz-victoria-surf.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.4840168,
+    "lon": -1.5579646999999999,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "GARDEN - Utopy Hostel",
+    "url": "https://www.booking.com/hotel/fr/utopy-hostel-biarritz.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.47241227419653,
+    "lon": -1.5497660601883,
+    "city_id": 33
+  },
+  {
+    "ville": "Biarritz",
+    "nom": "Studio Biarritz 2 min Halles, 3 min plages, plein centre.",
+    "url": "https://www.booking.com/hotel/fr/studio-biarritz-2-min-halles-3-min-plages-plein-centre.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.480541669298795,
+    "lon": -1.5641824537418292,
+    "city_id": 33
+  }
+]

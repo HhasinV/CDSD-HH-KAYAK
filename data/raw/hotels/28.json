@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Collioure",
+    "nom": "Hôtel Princes de Catalogne",
+    "url": "https://www.booking.com/hotel/fr/princes-de-catalogne.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 42.525914313393564,
+    "lon": 3.0826815962791443,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Charmant Studio près de la Plage",
+    "url": "https://www.booking.com/hotel/fr/charmant-studio-pres-de-la-plage-collioure.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 42.522979,
+    "lon": 3.086112,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Logement 50 m de la plage Arrivée et Départ Autonome",
+    "url": "https://www.booking.com/hotel/fr/logement-en-bord-de-mer.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 42.5238601,
+    "lon": 3.0839396,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Appartement Centre COLLIOURE CLIM PATIO WIFI",
+    "url": "https://www.booking.com/hotel/fr/appartement-centre-collioure-patio-wifi-clim.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 42.527392290863,
+    "lon": 3.082283396313,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Residence Pierre & Vacances Les Balcons de Collioure",
+    "url": "https://www.booking.com/hotel/fr/maevabalconsdecollioure.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 42.525106327083726,
+    "lon": 3.0904361978173256,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Appartement vue mer les pieds dans l'eau",
+    "url": "https://www.booking.com/hotel/fr/appartement-vue-mer-les-pieds-dans-l-eau.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 42.5232152,
+    "lon": 3.097468,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Appartement avec parking privatif à Collioure",
+    "url": "https://www.booking.com/hotel/fr/appartement-collioure-collioure.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 42.5282782973672,
+    "lon": 3.0784625601741,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Studio cosy Résidence St Elme avec parking et WIFI à 5min de la plage",
+    "url": "https://www.booking.com/hotel/fr/charmant-studio-residence-st-elme-pkg-wif-50m-plage.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 42.520944567338,
+    "lon": 3.087079471758,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "La Chambre De Salome",
+    "url": "https://www.booking.com/hotel/fr/la-chambre-de-salome.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 42.52111689594046,
+    "lon": 3.0773091316223145,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "LES BATTERIES bord de mer",
+    "url": "https://www.booking.com/hotel/fr/pleasant-beachfront-apartment.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 42.5244979,
+    "lon": 3.0970643,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Studio Centre Plage parking gratuit",
+    "url": "https://www.booking.com/hotel/fr/studio-centre-plage-collioure.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 42.522987676567986,
+    "lon": 3.087329664129035,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "appart central et son parking privatif gratuit",
+    "url": "https://www.booking.com/hotel/fr/appart-central-collioure.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 42.524882420258024,
+    "lon": 3.0818789317017803,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Appart T3, 60m2,quartier calme,idéal tout à pieds résidence et parking privé les cadenisses",
+    "url": "https://www.booking.com/hotel/fr/espace-et-confort-quartier-calme-ideal-tout-a-pieds.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 42.528908293531,
+    "lon": 3.077577378821,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Ibanova Appartements",
+    "url": "https://www.booking.com/hotel/fr/ibanova.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 42.5231333,
+    "lon": 3.0855761,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "your studio in Collioure",
+    "url": "https://www.booking.com/hotel/fr/your-studio-in-collioure.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 42.5275419,
+    "lon": 3.0851771,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Apartment Olive & Kin, Collioure",
+    "url": "https://www.booking.com/hotel/fr/residence-port-d-39-avall.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 42.522267294742,
+    "lon": 3.088695332819,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Les Chênes-lièges d'Ambeille",
+    "url": "https://www.booking.com/hotel/fr/chenes-lieges.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 42.52396992202,
+    "lon": 3.077311134393,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "location Coma Chéric et parking",
+    "url": "https://www.booking.com/hotel/fr/location-coma-cheric.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 42.52298110659616,
+    "lon": 3.0873043662110344,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Joli appartement près plage deux chambres quatre personnes",
+    "url": "https://www.booking.com/hotel/fr/joli-appartement-pres-plage-deux-chambres-quatre-personnes.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 42.52348633563764,
+    "lon": 3.0841717396424473,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Appartement typique avec balcon et patio",
+    "url": "https://www.booking.com/hotel/fr/appartement-typique-collioure.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 42.5237124759564,
+    "lon": 3.08345389449185,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Comme sur un bateau, T2, vue sur mer, terrasse, plage",
+    "url": "https://www.booking.com/hotel/fr/comme-sur-un-bateau-t2-vue-sur-mer-terrasse-plage.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 42.5246923478307,
+    "lon": 3.09831407886431,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Fenêtre sur Collioure",
+    "url": "https://www.booking.com/hotel/fr/fenetre-sur-collioure.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 42.527095830024564,
+    "lon": 3.0845235515379033,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Apartment Collioure le haut-1 by Interhome",
+    "url": "https://www.booking.com/hotel/fr/apartment-les-hauts-de-collioure-1-by-interhome.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 42.526192,
+    "lon": 3.076209,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Chez Clo",
+    "url": "https://www.booking.com/hotel/fr/bel-appartement-spacieux-de-tres-bon-standing.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 42.526527297611,
+    "lon": 3.0764812453106494,
+    "city_id": 28
+  },
+  {
+    "ville": "Collioure",
+    "nom": "Chambres Rue de la République",
+    "url": "https://www.booking.com/hotel/fr/chambres-rue-de-la-republique.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 42.52556369773399,
+    "lon": 3.0827967208667815,
+    "city_id": 28
+  }
+]

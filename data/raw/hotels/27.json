@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Oh! Campings - La Brise de Camargue",
+    "url": "https://www.booking.com/hotel/fr/oh-campings-la-brise.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 43.455801,
+    "lon": 4.436295,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Hotel Les Palmiers En Camargue",
+    "url": "https://www.booking.com/hotel/fr/les-palmiers-en-camargue.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.45106617843045,
+    "lon": 4.4250936806201935,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Hotel Le Bleu Marine",
+    "url": "https://www.booking.com/hotel/fr/le-bleu-marine.fr.html",
+    "note": 7.5,
+    "prix": null,
+    "lat": 43.45463817799243,
+    "lon": 4.433201998472214,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Le Castelet",
+    "url": "https://www.booking.com/hotel/fr/le-castelet-les-saintes-maries-de-la-mer.fr.html",
+    "note": 6.7,
+    "prix": null,
+    "lat": 43.451349492721796,
+    "lon": 4.425076246261597,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Thalacap Camargue",
+    "url": "https://www.booking.com/hotel/fr/thalacap-camargue.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 43.45349134476366,
+    "lon": 4.435451030731201,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Oh! Campings - Le Clos du Rhône",
+    "url": "https://www.booking.com/hotel/fr/oh-campings.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.44888,
+    "lon": 4.40168,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Hotel Le Méditérranée",
+    "url": "https://www.booking.com/hotel/fr/le-mediterranee-saintes-maries-de-la-mer.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 43.451222809689,
+    "lon": 4.42666831779093,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Hôtel Casa Marina",
+    "url": "https://www.booking.com/hotel/fr/casa-marina-saintes-maries-de-la-mer.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.451133,
+    "lon": 4.430953,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Appartement calme à deux pas de la mer",
+    "url": "https://www.booking.com/hotel/fr/appartement-calme-a-deux-pas-de-la-mer.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.455638511333,
+    "lon": 4.434994942077,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Camping Le Clos du Rhône",
+    "url": "https://www.booking.com/hotel/fr/camping-le-clos-du-rhone.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.448877916097,
+    "lon": 4.401684040041,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Les Flamants 4 pers , Brumisateur , WI-FI gratuit , Balcon, cuisine toute équipée",
+    "url": "https://www.booking.com/hotel/fr/les-flamants-saintes-maries-de-la-mer.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.4530628,
+    "lon": 4.4278325,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Appartement Camargue",
+    "url": "https://www.booking.com/hotel/fr/appartement-camargue.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.453735,
+    "lon": 4.429859,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Résidence L'Oiseau des Mers",
+    "url": "https://www.booking.com/hotel/fr/residence-l-oiseau-des-mers.fr.html",
+    "note": 9.8,
+    "prix": null,
+    "lat": 43.4540501,
+    "lon": 4.427996,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Domaine du Soleil Couchant",
+    "url": "https://www.booking.com/hotel/fr/domaine-du-soleil-couchant.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 43.4711103,
+    "lon": 4.4097318,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "L'Oustau des Palunettes Concept Adulte only",
+    "url": "https://www.booking.com/hotel/fr/oustau-des-palunettes.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.4619102,
+    "lon": 4.4199247,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Chambre les flamants, climatisation, avec vue imprenable sur les étangs, petit déjeuner offert",
+    "url": "https://www.booking.com/hotel/fr/chambre-les-flamants.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 43.457069,
+    "lon": 4.430955,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Cabane de gardian aux Saintes Maries de la Mer",
+    "url": "https://www.booking.com/hotel/fr/cabane-de-gardian-aux-saintes-maries-de-la-mer.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 43.4611858091478,
+    "lon": 4.42272126615955,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Abrivado",
+    "url": "https://www.booking.com/hotel/fr/abrivado.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.45033695444248,
+    "lon": 4.426224231719971,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Le Fangassier",
+    "url": "https://www.booking.com/hotel/fr/le-fangassier.fr.html",
+    "note": 8.9,
+    "prix": null,
+    "lat": 43.454496041947834,
+    "lon": 4.430707544088364,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "L Abri-côtier Appartements",
+    "url": "https://www.booking.com/hotel/fr/appartement-3-saintes-maries-de-la-mer.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 43.454349768093,
+    "lon": 4.427723094089,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Appartement front de mer avec vue et accès plage, Saintes-Maries-de-la-Mer",
+    "url": "https://www.booking.com/hotel/fr/appartement-bord-de-mer-avec-vue-et-acces-plage-saintes-maries-de-la-mer.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 43.453433711578,
+    "lon": 4.435737318524,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Appartement de l'olivier",
+    "url": "https://www.booking.com/hotel/fr/appartement-de-l-39-olivier.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 43.453848689005,
+    "lon": 4.424928820072,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Les Laurier rose",
+    "url": "https://www.booking.com/hotel/fr/les-laurier-rose.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.517453272936,
+    "lon": 4.373748195701,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Les Rizières",
+    "url": "https://www.booking.com/hotel/fr/les-rizieres.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.47103999099344,
+    "lon": 4.410586953163147,
+    "city_id": 27
+  },
+  {
+    "ville": "Saintes Maries de la mer",
+    "nom": "Camping La Brise de Camargue",
+    "url": "https://www.booking.com/hotel/fr/camping-paradis-la-brise-de-camargue.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.4558981622,
+    "lon": 4.436524217474,
+    "city_id": 27
+  }
+]

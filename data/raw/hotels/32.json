@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Montauban",
+    "nom": "Dali Hôtel Montauban",
+    "url": "https://www.booking.com/hotel/fr/dali-montauban.fr.html",
+    "note": 8.8,
+    "prix": null,
+    "lat": 44.020995559797,
+    "lon": 1.349240014017,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Unisotel Montauban EX F1",
+    "url": "https://www.booking.com/hotel/fr/hotelf1-montauban.fr.html",
+    "note": 6.8,
+    "prix": null,
+    "lat": 44.007347,
+    "lon": 1.3851290000000063,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Premiere Classe Montauban",
+    "url": "https://www.booking.com/hotel/fr/hotelpremiereclasse.fr.html",
+    "note": 5.9,
+    "prix": null,
+    "lat": 43.98291262323651,
+    "lon": 1.334015429019928,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "ibis Montauban",
+    "url": "https://www.booking.com/hotel/fr/ha-tel-ibis-montauban.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 44.005367497284546,
+    "lon": 1.3837341964244843,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "ibis budget Montauban Les Chaumes",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-montauban-les-chaumes.fr.html",
+    "note": 7.9,
+    "prix": null,
+    "lat": 44.00649223653908,
+    "lon": 1.3864317836123519,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Hôtel du Commerce",
+    "url": "https://www.booking.com/hotel/fr/hotel-du-commerce-montauban.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 44.01542572857878,
+    "lon": 1.3540729880332947,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Abbaye des Capucins Spa & Resort",
+    "url": "https://www.booking.com/hotel/fr/abbaye-des-capucins-spa-and-resort.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 44.020542927203735,
+    "lon": 1.3495668768882751,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "ibis Styles Montauban",
+    "url": "https://www.booking.com/hotel/fr/ibis-styles-montauban.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 44.00526,
+    "lon": 1.383153,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Brit Hotel Confort Montauban",
+    "url": "https://www.booking.com/hotel/fr/deltour-montauban-city.fr.html",
+    "note": 8.5,
+    "prix": null,
+    "lat": 43.980810842951904,
+    "lon": 1.330394446849823,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Kyriad Montauban Sud - Albasud",
+    "url": "https://www.booking.com/hotel/fr/hoteletrestaurantcampanilemontauban.fr.html",
+    "note": 7.0,
+    "prix": null,
+    "lat": 43.98204026800024,
+    "lon": 1.3326984643936157,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "B&B HOTEL Montauban",
+    "url": "https://www.booking.com/hotel/fr/b-amp-b-montauban.fr.html",
+    "note": 7.8,
+    "prix": null,
+    "lat": 44.03974335530502,
+    "lon": 1.3857127637543387,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Centre Louis Ormières",
+    "url": "https://www.booking.com/hotel/fr/centre-louis-ormieres.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.990284,
+    "lon": 1.338824,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Les Logis du Port Suites & Spa - Climatisation -Port Canal Montauban",
+    "url": "https://www.booking.com/hotel/fr/les-logis-du-port-suites-amp-spa-port-canal-montauban.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 44.0081137,
+    "lon": 1.3398952,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Hôtel Mercure Montauban",
+    "url": "https://www.booking.com/hotel/fr/mercure.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 44.015742070285896,
+    "lon": 1.354912519454956,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Echappée Belle à Montauban - garage - centre ville",
+    "url": "https://www.booking.com/hotel/fr/logement-tout-confort-en-centre-ville.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 44.0223269,
+    "lon": 1.3581305000000001,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Maison de ville, jardin privatif et stationnement",
+    "url": "https://www.booking.com/hotel/fr/townhouse-private-garden-and-parking.fr.html",
+    "note": 9.4,
+    "prix": null,
+    "lat": 44.0112757926892,
+    "lon": 1.36417276942099,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Manoir de La Gravette Authentic French Manor Experience",
+    "url": "https://www.booking.com/hotel/fr/le-manoir-de-la-gravette.fr.html",
+    "note": 9.5,
+    "prix": null,
+    "lat": 44.04904336668601,
+    "lon": 1.343883523803724,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Les oiseaux, maison de 3 chambres et climatisation",
+    "url": "https://www.booking.com/hotel/fr/les-oiseaux-maison-de-3-chambres-et-climatisation.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 44.007198,
+    "lon": 1.365443,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Chez Valérie et Vincent - La coulée douce",
+    "url": "https://www.booking.com/hotel/fr/chez-valerie-et-vincent-la-coulee-douce.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 44.0223286,
+    "lon": 1.3693127,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Le Clos de Saint Amour",
+    "url": "https://www.booking.com/hotel/fr/le-clos-de-saint-amour.fr.html",
+    "note": 9.2,
+    "prix": null,
+    "lat": 44.02487667349487,
+    "lon": 1.392817497253418,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Chez Amélie T3 Lumineux Montauban",
+    "url": "https://www.booking.com/hotel/fr/chez-amelie-t3-lumineux-montauban.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 44.0176919369792,
+    "lon": 1.34698596338676,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "L'authentique",
+    "url": "https://www.booking.com/hotel/fr/authentique-montauban1.fr.html",
+    "note": 9.3,
+    "prix": null,
+    "lat": 44.017519950789,
+    "lon": 1.355708791402,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Petite maisonnette avec accés piscine",
+    "url": "https://www.booking.com/hotel/fr/petite-maisonnette-avec-acces-piscine.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 44.0118087305082,
+    "lon": 1.32553363265719,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Chalet 1 contemporain dans son écrin de verdure",
+    "url": "https://www.booking.com/hotel/fr/chalet-contemporain-dans-son-ecrin-de-verdure.fr.html",
+    "note": 8.7,
+    "prix": null,
+    "lat": 43.9829854,
+    "lon": 1.3639737,
+    "city_id": 32
+  },
+  {
+    "ville": "Montauban",
+    "nom": "Studio plein Sud au calme",
+    "url": "https://www.booking.com/hotel/fr/studios-plein-sud-au-calme.fr.html",
+    "note": 9.1,
+    "prix": null,
+    "lat": 44.0077748,
+    "lon": 1.3266783,
+    "city_id": 32
+  }
+]

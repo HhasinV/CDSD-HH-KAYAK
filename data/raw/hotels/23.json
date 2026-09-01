@@ -1,0 +1,252 @@
+[
+  {
+    "ville": "Avignon",
+    "nom": "ibis budget Avignon Centre",
+    "url": "https://www.booking.com/hotel/fr/ibis-budget-avignon-centre.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.943756311974205,
+    "lon": 4.7981523644180015,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Hôtel Le Bristol",
+    "url": "https://www.booking.com/hotel/fr/hotel-bristol-avignon.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.944032127814744,
+    "lon": 4.80533167719841,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Mercure Avignon TGV Hotel & Spa",
+    "url": "https://www.booking.com/hotel/fr/expresshiavignon.fr.html",
+    "note": 8.6,
+    "prix": null,
+    "lat": 43.92929,
+    "lon": 4.784118000000035,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Kyriad Avignon - Palais des Papes",
+    "url": "https://www.booking.com/hotel/fr/kyriad-avignon-palais-des-papes-xml.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.949637766959796,
+    "lon": 4.806358963251114,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Premiere Classe Avignon Courtine Gare TGV",
+    "url": "https://www.booking.com/hotel/fr/premiere-classe-avignon-courtine.fr.html",
+    "note": 5.8,
+    "prix": null,
+    "lat": 43.930206713124925,
+    "lon": 4.790328741073608,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "hotelF1 Avignon Centre Courtine gare TGV",
+    "url": "https://www.booking.com/hotel/fr/hotelf1-avignon-centre-courtine-gare-tgv.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 43.929032,
+    "lon": 4.788189,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Novotel Avignon Centre",
+    "url": "https://www.booking.com/hotel/fr/novotel-avignon-centre.fr.html",
+    "note": 8.2,
+    "prix": null,
+    "lat": 43.94273539563318,
+    "lon": 4.8024362325668335,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Mercure Pont d’Avignon Centre",
+    "url": "https://www.booking.com/hotel/fr/pont-d-avignon.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.95284082094276,
+    "lon": 4.805933833122253,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Golden Tulip Avignon Le Paradou",
+    "url": "https://www.booking.com/hotel/fr/goldentulip-avignon-leparadou.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.90489249574502,
+    "lon": 4.895530343055725,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Camping du Pont d'Avignon",
+    "url": "https://www.booking.com/hotel/fr/camping-du-pont-d-avignon.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.95638753322529,
+    "lon": 4.801990985870361,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Hotel Cristol",
+    "url": "https://www.booking.com/hotel/fr/cristol-avignon-sud.fr.html",
+    "note": 7.2,
+    "prix": null,
+    "lat": 43.92633934823371,
+    "lon": 4.850131273269653,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Charmant studio en plein centre d'Avignon",
+    "url": "https://www.booking.com/hotel/fr/charmant-studio-en-plein-centre-d-avignon.fr.html",
+    "note": 5.9,
+    "prix": null,
+    "lat": 43.948053,
+    "lon": 4.806774,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Auberge de jeunesse HI Avignon",
+    "url": "https://www.booking.com/hotel/fr/auberge-de-jeunesse-hi-avignon.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.9476227,
+    "lon": 4.8059782,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "ibis Avignon Centre Pont De L'Europe",
+    "url": "https://www.booking.com/hotel/fr/ibis-avignon-centre-pont-de-l-europe.fr.html",
+    "note": 7.6,
+    "prix": null,
+    "lat": 43.94363815379145,
+    "lon": 4.79828953742981,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "ApartHotel Sainte-Marthe",
+    "url": "https://www.booking.com/hotel/fr/ra-c-sidence-sainte-marthe.fr.html",
+    "note": 8.1,
+    "prix": null,
+    "lat": 43.94989513805674,
+    "lon": 4.819863885641098,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Appartement 2 pièces - Palais des Papes",
+    "url": "https://www.booking.com/hotel/fr/appartement-2-pieces-palais-des-papes.fr.html",
+    "note": 8.3,
+    "prix": null,
+    "lat": 43.9496333,
+    "lon": 4.8083893,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "B&B HOTEL Avignon Sud Parc des Expositions",
+    "url": "https://www.booking.com/hotel/fr/campanile-avignon-sud-montfavet.fr.html",
+    "note": 6.3,
+    "prix": null,
+    "lat": 43.92592593870915,
+    "lon": 4.850807189941406,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "ibis Styles Avignon Sud",
+    "url": "https://www.booking.com/hotel/fr/avignon.fr.html",
+    "note": 8.4,
+    "prix": null,
+    "lat": 43.92616548476504,
+    "lon": 4.844420850276947,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Pied à terre pour découvrir la Provence et Avignon",
+    "url": "https://www.booking.com/hotel/fr/pied-a-terre-pour-decouvrir-la-provence-et-avignon.fr.html",
+    "note": 9.0,
+    "prix": null,
+    "lat": 43.9334154,
+    "lon": 4.8158753999999995,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "L'Equinoxe 3 Intra-Muros",
+    "url": "https://www.booking.com/hotel/fr/equinoxe-3-intra-muros.fr.html",
+    "note": 8.0,
+    "prix": null,
+    "lat": 43.9515441,
+    "lon": 4.8183941,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Appartement de standing, parking privé, climatisé, proche du centre-ville et la gare centre",
+    "url": "https://www.booking.com/hotel/fr/appartement-de-standing-avignon.fr.html",
+    "note": 9.6,
+    "prix": null,
+    "lat": 43.9421839,
+    "lon": 4.8105285,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Villa Montplaisir, maison avec piscine privée à 800m du centre historique",
+    "url": "https://www.booking.com/hotel/fr/villa-montplaisir-proche-centre-ville-avec-piscine-privee.fr.html",
+    "note": 9.7,
+    "prix": null,
+    "lat": 43.950111109923,
+    "lon": 4.829684154423,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "Beautiful 40m2, 1 bedroom apartment with AC in the heart of the city",
+    "url": "https://www.booking.com/hotel/fr/beautiful-1-bedroom-apartment-with-ac-in-the-heart-of-the-city.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.9439502,
+    "lon": 4.8070637,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "ibis Avignon Sud",
+    "url": "https://www.booking.com/hotel/fr/ibis-avignon-sud.fr.html",
+    "note": 7.7,
+    "prix": null,
+    "lat": 43.9260710708618,
+    "lon": 4.849032908678055,
+    "city_id": 23
+  },
+  {
+    "ville": "Avignon",
+    "nom": "duplex au coeur de ville - les Halles - théatres",
+    "url": "https://www.booking.com/hotel/fr/duplex-au-coeur-de-ville-les-halles-theatres.fr.html",
+    "note": null,
+    "prix": null,
+    "lat": 43.9479955587577,
+    "lon": 4.81064617533821,
+    "city_id": 23
+  }
+]
