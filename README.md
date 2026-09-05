@@ -58,19 +58,20 @@ Les données circulent de gauche à droite — chaque étape alimente la suivant
 
 ## Structure du dépôt
 
-> Adapte les noms de fichiers à ton organisation réelle.
+
 
 ```
 .
 ├── notebooks/
-│   ├── 01_geocodage.ipynb          # Nominatim → coordonnées GPS
-│   ├── 02_meteo_score.ipynb        # OpenWeather → score de beau temps
-│   ├── 03_scraping_hotels.ipynb    # Playwright → hôtels + coordonnées
-│   └── 04_fusion_s3_etl.ipynb      # Fusion + S3 + ETL PostgreSQL + cartes
+│   ├── 01_coord_cities.ipynb         
+│   ├── 02_weather.ipynb        
+│   ├── 03_scrap_booking.ipynb    
+│   └── 04_merge_hotel_weather.ipynb      
+    └── 05_final_main.ipynb     
 ├── data/
 │   ├── raw/                        # Données brutes (CSV + JSON)
 │   └── curated/                    # kayak_enriched.csv (fichier enrichi)
-├── .env                            # Secrets (NON versionné)
+├── .env                            
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -78,45 +79,6 @@ Les données circulent de gauche à droite — chaque étape alimente la suivant
 
 ---
 
-## Installation
-
-### 1. Cloner le dépôt
-
-```bash
-git clone https://github.com/<utilisateur>/<depot>.git
-cd <depot>
-```
-
-### 2. Environnement virtuel + dépendances
-
-```bash
-python -m venv .venv
-source .venv/bin/activate          # Windows : .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### 3. Installer le navigateur Playwright (pour le scraping)
-
-```bash
-playwright install chromium
-playwright install-deps chromium   # Linux : dépendances système (sudo si besoin)
-```
-
-
-## Utilisation
-
-Exécuter les notebooks **dans l'ordre** (chaque étape produit les fichiers utilisés par la suivante) :
-
-| Ordre | Notebook | Produit |
-|---|---|---|
-| 1 | `01_geocodage.ipynb` | `data/raw/cities.csv` |
-| 2 | `02_meteo_score.ipynb` | `data/raw/weather_scored.csv` + Carte 1 |
-| 3 | `03_scraping_hotels.ipynb` | `data/raw/hotels.csv` |
-| 4 | `04_fusion_s3_etl.ipynb` | `kayak_enriched.csv` → S3 → PostgreSQL + Carte 2 |
-
-> Le scraping des 35 villes prend ~35-45 min ; un système de **cache par ville** rend l'opération reprenable en cas d'interruption.
-
----
 
 ## Détail du pipeline
 
